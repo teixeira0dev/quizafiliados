@@ -1,0 +1,223 @@
+{
+  "ce656819-29ac-4aaa-8c9c-d43ebe4094ca": {
+    "kind": "video",
+    "mode": "embed",
+    "embed": "<div style=\"width: 100%; aspect-ratio: 16/9; border-radius: 12px; overflow: hidden;\">\n<video preload=\"auto\" playsinline webkit-playsinline muted autoplay loop style=\"width:100%;height:100%;object-fit:cover;display:block;pointer-events:none;touch-action:none;user-select:none;margin:0;\" controlslist=\"nodownload nofullscreen noremoteplayback\" disablepictureinpicture disableremoteplayback>\n  <source src=\"https://pub-f557a695ac5548528149455a91995189.r2.dev/-%20Main%20Tmeline_1_2.mp4\" type=\"video/mp4\">\n</video>\n</div>",
+    "updatedAt": "2026-04-30T18:30:00.000Z"
+  },
+  "5518563a-bbc5-4a20-9d7e-e326d2fe54ab": {
+    "kind": "image",
+    "mode": "upload",
+    "src": "/api/uploads/6bf4653e-f31c-4b44-96f6-554f11ec6932.png",
+    "mime": "image/png",
+    "updatedAt": "2026-04-28T18:51:22.496Z"
+  },
+  "fc0dd5af-a0d0-4b05-b661-9ddeb1f2f353": {
+    "kind": "video",
+    "mode": "embed",
+    "embed": "<style>\r\n@import url(\"https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700\");\r\n\r\n*,\r\n*:before,\r\n*:after {\r\n  box-sizing: border-box;\r\n}\r\n\r\nbody,\r\nhtml {\r\n  margin: 0;\r\n  padding: 0;\r\n  font-family: aeonik, arial, tahoma, verdana;\r\n  background: #000000;\r\n  color: #726f77;\r\n}\r\n\r\n.container {\r\n  max-width: 100%;\r\n  margin: 0 auto;\r\n  text-align: center;\r\n}\r\n\r\nh1 {\r\n  color: #ff3333;\r\n  font-family: \"Aeonik\", arial, tahoma, verdana;\r\n  font-weight: 600;\r\n  font-size: 28px;\r\n  text-transform: uppercase;\r\n  line-height: 1.4;\r\n}\r\n\r\n.image-wrapper {\r\n  max-width: 800px;\r\n  margin: 0 auto;\r\n  border: 2px solid #fff;\r\n  border-radius: 8px;\r\n  overflow: hidden;\r\n}\r\n</style>\r\n\r\n<div class=\"container\">\r\n  <div class=\"image-wrapper\">\r\n    <img src=\"https://desafio.modocaverna.com/wp-content/uploads/2025/06/ezgif.com-optiwebp.webp\"\r\n         alt=\"Animação Modo Caverna\"\r\n         style=\"width: 100%; display: block;\" />\r\n  </div>\r\n</div>",
+    "updatedAt": "2026-04-28T18:52:19.153Z"
+  },
+  "b671e184-1ccd-4cce-a7d6-de26d9dc9e9d": {
+    "kind": "image",
+    "mode": "upload",
+    "src": "/mois.webp",
+    "mime": "image/png",
+    "updatedAt": "2026-04-30T04:00:00.000Z"
+  },
+  "75f10e8d-ea90-43e8-b329-31ca0a446285": {
+    "kind": "video",
+    "mode": "embed",
+    "embed": "<vturb-smartplayer id=\"vid-69ee48309c356ea99e96beec\" style=\"display: block; margin: 0 auto; width: 100%; \"></vturb-smartplayer> <script type=\"text/javascript\"> var s=document.createElement(\"script\"); s.src=\"https://scripts.converteai.net/5d9f8480-70ee-4640-ab7d-afc37958aa16/players/69ee48309c356ea99e96beec/v4/player.js\", s.async=!0,document.head.appendChild(s); </script>",
+    "updatedAt": "2026-04-28T19:54:40.301Z"
+  },
+  "a6d47522-613f-4f30-9be8-cbe42609d608": {
+    "kind": "carousel",
+    "mode": "slides",
+    "slides": [
+      {
+        "kind": "image",
+        "mode": "upload",
+        "src": "/api/uploads/e142ce38-374c-4036-a8f8-9c20bafacb48.png",
+        "mime": "image/png"
+      },
+      {
+        "kind": "image",
+        "mode": "upload",
+        "src": "/api/uploads/3e002c34-ced6-479c-b9c6-cc9dd15c3e0f.png",
+        "mime": "image/png"
+      },
+      {
+        "kind": "image",
+        "mode": "upload",
+        "src": "/api/uploads/723580ab-2aab-4abc-b6ac-2d34ca6e49c7.png",
+        "mime": "image/png"
+      }
+    ],
+    "updatedAt": "2026-04-30T16:40:00.000Z",
+    "width": 100
+  },
+  "73bf112b-9548-4351-adbf-136e90020904": {
+    "kind": "video",
+    "mode": "embed",
+    "embed": "<div style=\"width: 100%; aspect-ratio: 1265/1080; border-radius: 12px; overflow: hidden;\">\n  <video \n    playsinline \n    webkit-playsinline \n    muted \n    autoplay \n    loop \n    preload=\"none\" \n    style=\"width:100%;height:100%;object-fit:cover;display:block;pointer-events:none;touch-action:none;user-select:none;margin:0;\"\n    controlslist=\"nodownload nofullscreen noremoteplayback\"\n    disablepictureinpicture\n    disableremoteplayback\n  >\n    <source src=\"https://pub-f557a695ac5548528149455a91995189.r2.dev/01.webm\" type=\"video/webm\">\n    Seu navegador não suporta o vídeo.\n  </video>\n</div>",
+    "updatedAt": "2026-05-02T03:45:14.529Z"
+  },
+  "d694f6b3-bc97-4856-8437-452e6c3c581a": {
+    "kind": "video",
+    "mode": "embed",
+    "embed": "<div style=\"width: 100%; aspect-ratio: 1265/1080; border-radius: 12px; overflow: hidden;\">\n  <video \n    playsinline \n    webkit-playsinline \n    muted \n    autoplay \n    loop \n    preload=\"none\" \n    style=\"width:100%;height:100%;object-fit:cover;display:block;pointer-events:none;touch-action:none;user-select:none;margin:0;\"\n    controlslist=\"nodownload nofullscreen noremoteplayback\"\n    disablepictureinpicture\n    disableremoteplayback\n  >\n    <source src=\"https://pub-f557a695ac5548528149455a91995189.r2.dev/02.webm\" type=\"video/webm\">\n    Seu navegador não suporta o vídeo.\n  </video>\n</div>",
+    "updatedAt": "2026-05-02T03:43:15.411Z"
+  },
+  "4749255b-3bce-44ba-a86f-9282f585a532": {
+    "kind": "video",
+    "mode": "embed",
+    "embed": "<div style=\"width: 100%; aspect-ratio: 1265/1080; border-radius: 12px; overflow: hidden;\">\n  <video \n    playsinline \n    webkit-playsinline \n    muted \n    autoplay \n    loop \n    preload=\"none\" \n    style=\"width:100%;height:100%;object-fit:cover;display:block;pointer-events:none;touch-action:none;user-select:none;margin:0;\"\n    controlslist=\"nodownload nofullscreen noremoteplayback\"\n    disablepictureinpicture\n    disableremoteplayback\n  >\n    <source src=\"https://pub-f557a695ac5548528149455a91995189.r2.dev/03.webm\" type=\"video/webm\">\n    Seu navegador não suporta o vídeo.\n  </video>\n</div>",
+    "updatedAt": "2026-05-02T03:43:15.425Z"
+  },
+  "d878ac27-46a2-4531-8b1d-07bcbf3ad0f2": {
+    "kind": "video",
+    "mode": "embed",
+    "embed": "<div style=\"width: 100%; aspect-ratio: 1265/1080; border-radius: 12px; overflow: hidden;\">\n  <video \n    playsinline \n    webkit-playsinline \n    muted \n    autoplay \n    loop \n    preload=\"none\" \n    style=\"width:100%;height:100%;object-fit:cover;display:block;pointer-events:none;touch-action:none;user-select:none;margin:0;\"\n    controlslist=\"nodownload nofullscreen noremoteplayback\"\n    disablepictureinpicture\n    disableremoteplayback\n  >\n    <source src=\"https://pub-f557a695ac5548528149455a91995189.r2.dev/04.webm\" type=\"video/webm\">\n    Seu navegador não suporta o vídeo.\n  </video>\n</div>",
+    "updatedAt": "2026-05-02T03:43:15.425Z"
+  },
+  "ea635446-7a79-4389-947d-906e32567cb5": {
+    "kind": "video",
+    "mode": "embed",
+    "embed": "<div style=\"width: 100%; aspect-ratio: 1265/1080; border-radius: 12px; overflow: hidden;\">\n  <video \n    playsinline \n    webkit-playsinline \n    muted \n    autoplay \n    loop \n    preload=\"none\" \n    style=\"width:100%;height:100%;object-fit:cover;display:block;pointer-events:none;touch-action:none;user-select:none;margin:0;\"\n    controlslist=\"nodownload nofullscreen noremoteplayback\"\n    disablepictureinpicture\n    disableremoteplayback\n  >\n    <source src=\"https://pub-f557a695ac5548528149455a91995189.r2.dev/5.webm\" type=\"video/webm\">\n    Seu navegador não suporta o vídeo.\n  </video>\n</div>",
+    "updatedAt": "2026-05-02T03:43:15.425Z"
+  },
+  "89614e87-d4a3-4e24-954d-28fb6c2a917f": {
+    "kind": "video",
+    "mode": "embed",
+    "embed": "<div style=\"width: 100%; aspect-ratio: 1265/1080; border-radius: 12px; overflow: hidden;\">\n  <video \n    playsinline \n    webkit-playsinline \n    muted \n    autoplay \n    loop \n    preload=\"none\" \n    style=\"width:100%;height:100%;object-fit:cover;display:block;pointer-events:none;touch-action:none;user-select:none;margin:0;\"\n    controlslist=\"nodownload nofullscreen noremoteplayback\"\n    disablepictureinpicture\n    disableremoteplayback\n  >\n    <source src=\"https://pub-f557a695ac5548528149455a91995189.r2.dev/6.webm\" type=\"video/webm\">\n    Seu navegador não suporta o vídeo.\n  </video>\n</div>",
+    "updatedAt": "2026-05-02T03:43:15.425Z"
+  },
+  "aa0fbf19-7324-443d-adfc-c98e9e1a53c6": {
+    "kind": "image",
+    "mode": "upload",
+    "src": "/api/uploads/d0dbca49-255e-4c93-8ff7-b1a726a5408f.png",
+    "mime": "image/png",
+    "updatedAt": "2026-04-28T20:24:19.727Z"
+  },
+  "9c17c5c0-4b80-4002-998f-9c3e8b86a38b": {
+    "kind": "image",
+    "mode": "upload",
+    "src": "/api/uploads/23689a62-2f7f-45b6-a17d-be9d4cc99dcc.png",
+    "mime": "image/png",
+    "updatedAt": "2026-04-28T20:24:33.095Z"
+  },
+  "c210206c-20f7-448b-962e-879b26d99528": {
+    "kind": "image",
+    "mode": "upload",
+    "src": "/api/uploads/4e355405-798c-4b36-8d7c-41e2b546fbe6.png",
+    "mime": "image/png",
+    "updatedAt": "2026-04-28T20:24:44.170Z"
+  },
+  "7d2dbbb4-59dd-4102-8159-c0acd17734a5": {
+    "kind": "image",
+    "mode": "upload",
+    "src": "/api/uploads/91751998-c8f6-4b31-b2eb-c4e8250f88ef.png",
+    "mime": "image/png",
+    "updatedAt": "2026-04-28T20:24:57.389Z"
+  },
+  "78f950b4-f712-496a-bcbe-20a4e55c591b": {
+    "kind": "image",
+    "mode": "upload",
+    "src": "/api/uploads/7534733c-25d2-49f7-8bac-e568ac8d218c.png",
+    "mime": "image/png",
+    "updatedAt": "2026-04-28T20:25:10.177Z"
+  },
+  "92b602be-db3c-4538-ab11-ef2f9ee59eff": {
+    "kind": "image",
+    "mode": "upload",
+    "src": "/Gost.webp",
+    "mime": "image/png",
+    "updatedAt": "2026-04-30T16:30:00.000Z"
+  },
+  "0e34c078-8069-48bb-9e5c-dac53a4d8943": {
+    "kind": "image",
+    "mode": "upload",
+    "src": "/api/uploads/2f893280-4aef-4822-956d-551623947fa6.png",
+    "mime": "image/png",
+    "updatedAt": "2026-04-29T23:30:00.000Z",
+    "width": 14
+  },
+  "8a2d0724-8b43-44a3-801d-d50cda48c7f8": {
+    "kind": "transform",
+    "mode": "slides",
+    "slides": [
+      {
+        "kind": "image",
+        "mode": "upload",
+        "src": "/api/uploads/319975a9-d4e5-4210-9eda-bc1e87a97328.webp",
+        "mime": "image/webp"
+      },
+      {
+        "kind": "image",
+        "mode": "upload",
+        "src": "/api/uploads/44683c08-c5c7-40e6-af17-a549f22d5a73.webp",
+        "mime": "image/webp"
+      }
+    ],
+    "updatedAt": "2026-04-28T21:12:48.160Z"
+  },
+  "synthetic-2z1f1o46-conclua-media": {
+    "kind": "video",
+    "mode": "embed",
+    "embed": "<div style=\"width: 100%; aspect-ratio: 1265/1080; border-radius: 12px; overflow: hidden;\">\n  <video \n    playsinline \n    webkit-playsinline \n    muted \n    autoplay \n    loop \n    preload=\"none\" \n    style=\"width:100%;height:100%;object-fit:cover;display:block;pointer-events:none;touch-action:none;user-select:none;margin:0;\"\n    controlslist=\"nodownload nofullscreen noremoteplayback\"\n    disablepictureinpicture\n    disableremoteplayback\n  >\n    <source src=\"https://pub-f557a695ac5548528149455a91995189.r2.dev/7.webm\" type=\"video/webm\">\n    Seu navegador não suporta o vídeo.\n  </video>\n</div>",
+    "updatedAt": "2026-05-02T03:43:15.425Z"
+  },
+  "57121e33-0c86-4560-a3a1-444c29a531a0": {
+    "kind": "video",
+    "mode": "embed",
+    "embed": "<script type=\"text/javascript\"> var s=document.createElement(\"script\"); s.src=\"https://scripts.converteai.net/lib/js/smartplayer-wc/v4/sdk.js\", s.async=!0,document.head.appendChild(s); </script> <div id=\"ifr_67f9776a17d8af83af550c8d_wrapper\" style=\"margin: 0 auto; width: 100%; \"> <div style=\"position: relative; padding: 56.25% 0 0 0;\" id=\"ifr_67f9776a17d8af83af550c8d_aspect\"> <iframe frameborder=\"0\" allowfullscreen src=\"about:blank\" id=\"ifr_67f9776a17d8af83af550c8d\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" referrerpolicy=\"origin\" onload=\" this.onload=null, this.src='https://scripts.converteai.net/5d9f8480-70ee-4640-ab7d-afc37958aa16/players/67f9776a17d8af83af550c8d/v4/embed.html' +(location.search||'?') +'&vl=' +encodeURIComponent(location.href)\"></iframe> </div> </div>",
+    "updatedAt": "2026-04-29T00:33:12.193Z"
+  },
+  "4b3e7c5c-1e17-41a7-8cde-b727777cb826": {
+    "kind": "image",
+    "mode": "upload",
+    "src": "/eererer.webp",
+    "mime": "image/webp",
+    "updatedAt": "2026-04-30T02:00:00.000Z"
+  },
+  "3d03c443-535b-48e9-b2a6-e172c706b1b7": {
+    "kind": "image",
+    "mode": "upload",
+    "src": "/api/uploads/a0914850-973b-4fd4-993b-99c639666218.webp",
+    "mime": "image/webp",
+    "updatedAt": "2026-04-29T00:37:10.335Z"
+  },
+  "fa258511-99da-437c-8bfd-56a21f37422b": {
+    "kind": "video",
+    "mode": "upload",
+    "src": "/api/uploads/87ec4b4c-c14d-43cc-8dff-b595e9000d06.mp4",
+    "mime": "video/mp4",
+    "updatedAt": "2026-04-29T00:40:59.342Z"
+  },
+  "synthetic-0y610p2f-video-1": {
+    "kind": "video",
+    "mode": "embed",
+    "embed": "<vturb-smartplayer id=\"vid-69dd5094d793710183df67cf\" style=\"display: block; margin: 0 auto; width: 100%; \"></vturb-smartplayer> <script type=\"text/javascript\"> var s=document.createElement(\"script\"); s.src=\"https://scripts.converteai.net/5d9f8480-70ee-4640-ab7d-afc37958aa16/players/69dd5094d793710183df67cf/v4/player.js\", s.async=!0,document.head.appendChild(s); </script>",
+    "updatedAt": "2026-04-29T22:00:00.000Z"
+  },
+  "synthetic-0y610p2f-video-2": {
+    "kind": "video",
+    "mode": "embed",
+    "embed": "<vturb-smartplayer id=\"vid-69d94eb1756aeccf0b6b0391\" style=\"display: block; margin: 0 auto; width: 100%; \"></vturb-smartplayer> <script type=\"text/javascript\"> var s=document.createElement(\"script\"); s.src=\"https://scripts.converteai.net/5d9f8480-70ee-4640-ab7d-afc37958aa16/players/69d94eb1756aeccf0b6b0391/v4/player.js\", s.async=!0,document.head.appendChild(s); </script>",
+    "updatedAt": "2026-04-29T22:00:00.000Z"
+  },
+  "synthetic-0y610p2f-video-3": {
+    "kind": "video",
+    "mode": "embed",
+    "embed": "<vturb-smartplayer id=\"vid-69ea1d680b351269d472e227\" style=\"display: block; margin: 0 auto; width: 100%; \"></vturb-smartplayer> <script type=\"text/javascript\"> var s=document.createElement(\"script\"); s.src=\"https://scripts.converteai.net/5d9f8480-70ee-4640-ab7d-afc37958aa16/players/69ea1d680b351269d472e227/v4/player.js\", s.async=!0,document.head.appendChild(s); </script>",
+    "updatedAt": "2026-04-29T22:00:00.000Z"
+  },
+  "synthetic-ideal-img": {
+    "kind": "image",
+    "mode": "upload",
+    "src": "/ideal.webp",
+    "mime": "image/png",
+    "updatedAt": "2026-04-30T17:00:00.000Z"
+  }
+}

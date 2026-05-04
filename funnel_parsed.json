@@ -1,0 +1,2790 @@
+{
+  "id": 92689,
+  "user_id": 14934,
+  "name": "Modo Caverna 49",
+  "nodes": [
+    {
+      "id": "e786d82d-b353-41a9-998b-7d0f3d6656db",
+      "data": {
+        "url": "https://payment.ticto.app/O61DBFCFB?utm_source=quiz-ticto",
+        "slug": "2k5m510d",
+        "type": "link",
+        "title": "Link"
+      },
+      "type": "function",
+      "width": 320,
+      "height": 80,
+      "dragging": false,
+      "position": {
+        "x": 6301.608938076914,
+        "y": 599.1752802303971
+      },
+      "selected": true,
+      "positionAbsolute": {
+        "x": 6301.608938076914,
+        "y": 599.1752802303971
+      }
+    },
+    {
+      "id": "9845a504-df51-4117-a496-7d5606bf87c2",
+      "data": {
+        "slug": "385o1j6b",
+        "title": "Nova Página",
+        "content": [
+          {
+            "id": "2aaa37f1-c83b-4d23-818b-f8eb8144caae",
+            "data": {
+              "text": "<p><strong>Hoje é seu dia de sorte. Você acaba de ganhar mais de R$300 em bônus.</strong></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 22,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "2c4c9f0b-6fcd-435c-acff-73e8dbaa41be",
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 221, 0);\">Isso vai te ajudar a acelerar a sua transformação</span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 14,
+              "textLineHeight": "verySmall"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "aa0fbf19-7324-443d-adfc-c98e9e1a53c6",
+            "data": {
+              "size": "w-full",
+              "image": {
+                "uuid": "aaaac02a-bbe0-4de0-8b70-88e0a7082115",
+                "width": 740,
+                "height": 398
+              },
+              "style": "default",
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "image",
+            "type": "image",
+            "title": "Imagem",
+            "category": "midea"
+          },
+          {
+            "id": "9c17c5c0-4b80-4002-998f-9c3e8b86a38b",
+            "data": {
+              "size": "w-full",
+              "image": {
+                "uuid": "31d41968-5072-4bf6-b2cb-99a5c1b3ec4d",
+                "width": 740,
+                "height": 398
+              },
+              "style": "default",
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "image",
+            "type": "image",
+            "title": "Imagem",
+            "category": "midea"
+          },
+          {
+            "id": "c210206c-20f7-448b-962e-879b26d99528",
+            "data": {
+              "size": "w-full",
+              "image": {
+                "uuid": "116c8d43-9bbe-458c-8b14-e9d1b184ce51",
+                "width": 740,
+                "height": 392
+              },
+              "style": "default",
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "image",
+            "type": "image",
+            "title": "Imagem",
+            "category": "midea"
+          },
+          {
+            "id": "7d2dbbb4-59dd-4102-8159-c0acd17734a5",
+            "data": {
+              "size": "w-full",
+              "image": {
+                "uuid": "99b3f99e-a7b2-4e7b-ad2c-b28a9ad3fc99",
+                "width": 742,
+                "height": 392
+              },
+              "style": "default",
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "image",
+            "type": "image",
+            "title": "Imagem",
+            "category": "midea"
+          },
+          {
+            "id": "78f950b4-f712-496a-bcbe-20a4e55c591b",
+            "data": {
+              "size": "w-full",
+              "image": {
+                "uuid": "ab9c726c-4091-4132-a163-dea10750d059",
+                "width": 742,
+                "height": 394
+              },
+              "style": "default",
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "image",
+            "type": "image",
+            "title": "Imagem",
+            "category": "midea"
+          },
+          {
+            "id": "f7d72c2d-39ef-40ac-85ff-b7a46dab2e80",
+            "data": {
+              "text": "<p><strong>GOSTOU?</strong></p><p><strong>Calma! Ainda não acabou...</strong></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 24,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "92b602be-db3c-4538-ab11-ef2f9ee59eff",
+            "data": {
+              "size": "w-full",
+              "image": {
+                "uuid": "d495f7e4-08bc-473a-a673-12833eb2ce96",
+                "width": 1485,
+                "height": 1856
+              },
+              "style": "default",
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "image",
+            "type": "image",
+            "title": "Imagem",
+            "category": "midea"
+          },
+          {
+            "id": "1a5ba815-4e05-4fe9-b7c9-1dc8b46490de",
+            "data": {
+              "size": "w-full",
+              "image": {
+                "uuid": "e134af0f-b9dd-4939-8229-a1d02110f9e2",
+                "width": 1080,
+                "height": 1920
+              },
+              "style": "default",
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "image",
+            "type": "image",
+            "title": "Imagem",
+            "category": "midea"
+          },
+          {
+            "id": "3ddb8961-6894-4c56-b83e-98c5c4ea8e23",
+            "data": {
+              "fixed": false,
+              "style": "default",
+              "title": "<p>COMPRAR AGORA</p>",
+              "anchor": false,
+              "colors": {
+                "focus": "#17c200"
+              },
+              "alignment": "center",
+              "animation": "pulse",
+              "videoDelay": false,
+              "anchorTarget": null,
+              "videoDelayTime": 10
+            },
+            "icon": "square-mouse-pointer",
+            "type": "button",
+            "title": "Botão",
+            "category": "action"
+          },
+          {
+            "id": "e370eb13-2f9b-4bd9-9d3b-5c611eaf98b5",
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 51, 51);\"><strong>GARANTIA INCONDICIONAL DE 7 DIAS</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 24,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "39f46175-6db5-457f-83fd-f3f58ce72216",
+            "data": {
+              "text": "<p>Eu acredito tanto na transformação que o <strong>Modo Caverna</strong> pode gerar na sua vida, que você tem <strong>7 dias completos para testar</strong> sem nenhum risco.</p><p></p><p>👉 Entrou no sistema, explorou as ferramentas e percebeu que <strong>não é para você</strong>?</p><p>Sem problema. Basta um clique e devolvemos <strong>100% do seu investimento</strong>.</p><p></p><p>Sem perguntas. Sem burocracia. Sem enrolação.</p><p>Ou você sente que está no caminho certo, ou o seu dinheiro volta para você.</p><p></p><p>Com essa garantia, o risco é <strong>zero</strong> — e a decisão está totalmente nas suas mãos.</p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 14,
+              "textLineHeight": "small"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "0e34c078-8069-48bb-9e5c-dac53a4d8943",
+            "data": {
+              "size": "w-40",
+              "image": {
+                "uuid": "ec3cadae-9ebf-40df-add2-dfdcf811f8b4",
+                "width": 1127,
+                "height": 884
+              },
+              "style": "default",
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "image",
+            "type": "image",
+            "title": "Imagem",
+            "category": "midea"
+          },
+          {
+            "id": "df598497-a8ec-4852-821c-77410bb458c2",
+            "data": {
+              "text": "<p><span style=\"color: rgb(220, 38, 38);\"><strong>Conheça o idealizador</strong></span><span style=\"color: rgb(255, 255, 255);\"><strong>&nbsp;</strong></span></p><p><span style=\"color: rgb(255, 255, 255);\"><strong>do Modo Caverna</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 24,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "8a2d0724-8b43-44a3-801d-d50cda48c7f8",
+            "data": {
+              "aIcon": "CheckCircle",
+              "bIcon": "AlertCircle",
+              "style": "default",
+              "aImage": {
+                "uuid": "57f8b377-1f01-40ac-93e6-d99810e0d8c6",
+                "width": 800,
+                "height": 1022
+              },
+              "aLevel": "95",
+              "aTitle": "DEPOIS",
+              "bImage": {
+                "uuid": "03fafc18-bc0f-476b-8b43-ed66c778a311",
+                "width": 800,
+                "height": 1022
+              },
+              "bLevel": "15",
+              "bTitle": "ANTES",
+              "colors": {
+                "aBar": "#4bbe68",
+                "bBar": "#ff5c5c",
+                "border": "#525252",
+                "noteText": "#ffffff",
+                "background": "#000000",
+                "aBackground": "#4bbe68",
+                "bBackground": "#ff5c5c",
+                "barBackground": "#ffffff"
+              },
+              "aSubtitle": "<p>Do outro:</p>",
+              "animation": "fade-in",
+              "bSubtitle": "<p>De um lado: </p>",
+              "aDescription": "<p>Focado e produtivo</p><p></p><p>Empresário de sucesso</p><p></p><p>Mentor de milhares de pessoas</p>",
+              "bDescription": "<p>Procrastinador</p><p></p><p>Endividado e perdido</p><p></p><p>Sem energia nem direção</p>"
+            },
+            "icon": "blend",
+            "type": "transform",
+            "title": "Transformação",
+            "category": "checkout"
+          },
+          {
+            "id": "8d5c1cb5-36cf-4336-acf5-8bff91e35caa",
+            "data": {
+              "text": "<p>Meu nome é <strong>Iuri Meira</strong>.</p><p></p><p>Há alguns anos, cheguei ao fundo do poço: devendo mais de <strong>300 mil reais</strong>, em uma depressão profunda e sem direção. Eu acordava todos os dias sem energia, perdido, sem saber como sair daquele buraco.</p><p></p><p>Sem ajuda externa, apenas com disciplina e muito aprendizado, fui construindo um caminho de volta. Criei métodos para organizar minha mente, minha rotina e meus objetivos. E aos poucos, consegui <strong>me reerguer, recuperar minha dignidade e transformar a minha vida</strong>.</p><p></p><p>Hoje, vivo em um estágio de <strong>prosperidade e abundância</strong> que jamais imaginei possível. Mas o mais importante: encontrei propósito em <strong>ensinar outras pessoas a fazerem o mesmo</strong>.</p><p></p><p>O <strong>Modo Caverna</strong> nasceu dessa jornada — não é só um app, é um <strong>sistema de transformação pessoal</strong> que já impactou a vida de milhares de pessoas. Agora, pode impactar a sua também.</p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 14,
+              "textLineHeight": "small"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "a230e967-05bf-40ba-849a-c54725af5ccf",
+            "data": {
+              "fixed": false,
+              "style": "default",
+              "title": "<p>COMPRAR AGORA</p>",
+              "anchor": false,
+              "colors": {
+                "focus": "#17c200"
+              },
+              "alignment": "center",
+              "animation": "pulse",
+              "videoDelay": false,
+              "anchorTarget": null,
+              "videoDelayTime": 10
+            },
+            "icon": "square-mouse-pointer",
+            "type": "button",
+            "title": "Botão",
+            "category": "action"
+          }
+        ]
+      },
+      "type": "page",
+      "width": 320,
+      "height": 1330,
+      "dragging": false,
+      "position": {
+        "x": 5797.879480080857,
+        "y": 92.36266808281653
+      },
+      "selected": false,
+      "positionAbsolute": {
+        "x": 5797.879480080857,
+        "y": 92.36266808281653
+      }
+    },
+    {
+      "id": "a130c8e1-d3a0-4b9a-b31f-a82187babba1",
+      "data": {
+        "slug": "2z1f1o46",
+        "title": "Nova Página",
+        "content": [
+          {
+            "id": "47ce8928-f4a8-4c9a-9d36-05735aacc95f",
+            "data": {
+              "progressBar": {
+                "height": "5px",
+                "endColor": null,
+                "startColor": null,
+                "borderRadius": null,
+                "backgroundColor": "#825959"
+              },
+              "targetPercentage": 95
+            },
+            "icon": "stretch-horizontal",
+            "type": "progressV2",
+            "title": "Progresso",
+            "version": 2,
+            "category": "heading",
+            "nestable": true
+          },
+          {
+            "id": "777569d3-a48f-4261-9acf-de144006bf01",
+            "data": {
+              "text": "<p><strong>É assim que você vai ativar o Modo Caverna e transformar sua vida em 40 dias...</strong></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 24,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "11bff83f-f408-4c66-a0f4-746e00fa34be",
+            "data": {
+              "text": "<p><strong>1. Acesse o sistema</strong></p><p>Baixe o app no seu celular ou utilize no navegador do seu computador.</p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 18,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "73bf112b-9548-4351-adbf-136e90020904",
+            "data": {
+              "size": "w-full",
+              "style": "default",
+              "script": "<video \n  playsinline \n  webkit-playsinline \n  muted \n  autoplay \n  loop \n  width=\"100%\" \n  style=\"display: block; pointer-events: none; touch-action: none; user-select: none; margin: 0;\"\n  controlslist=\"nodownload nofullscreen noremoteplayback\"\n  disablepictureinpicture\n  disableremoteplayback\n>\n  <source src=\"https://desafio.modocaverna.com/wp-content/uploads/2025/07/video1_ultra.webm\" type=\"video/webm\" />\n  Seu navegador não suporta o vídeo.\n</video>",
+              "source": null,
+              "visible": true,
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "code",
+            "type": "script",
+            "title": "Script",
+            "category": "midea"
+          },
+          {
+            "id": "ea86f833-c062-4e76-af0d-b58ef6f2aecd",
+            "data": {
+              "text": "<p><strong>2. Assista ao curso</strong></p><p>Entenda os segredos por trás da metodologia do Modo Caverna.</p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 18,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "d694f6b3-bc97-4856-8437-452e6c3c581a",
+            "data": {
+              "size": "w-full",
+              "style": "default",
+              "script": "<video \n  playsinline \n  webkit-playsinline \n  muted \n  autoplay \n  loop \n  width=\"100%\" \n  style=\"display: block; pointer-events: none; touch-action: none; user-select: none; margin: 0;\"\n  controlslist=\"nodownload nofullscreen noremoteplayback\"\n  disablepictureinpicture\n  disableremoteplayback\n>\n  <source src=\"https://desafio.modocaverna.com/wp-content/uploads/2025/07/video2_ultra.webm\" type=\"video/webm\" />\n  Seu navegador não suporta o vídeo.\n</video>",
+              "source": null,
+              "visible": true,
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "code",
+            "type": "script",
+            "title": "Script",
+            "category": "midea"
+          },
+          {
+            "id": "af606d9c-86bf-41a2-9fba-8bfc9cec1bcf",
+            "data": {
+              "text": "<p><strong>3. Crie o Desafio de 40 dias</strong></p><p>Personalize de acordo com o seu objetivo e sua realidade atual.</p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 18,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "4749255b-3bce-44ba-a86f-9282f585a532",
+            "data": {
+              "size": "w-full",
+              "style": "default",
+              "script": "<video \n  playsinline \n  webkit-playsinline \n  muted \n  autoplay \n  loop \n  width=\"100%\" \n  style=\"display: block; pointer-events: none; touch-action: none; user-select: none; margin: 0;\"\n  controlslist=\"nodownload nofullscreen noremoteplayback\"\n  disablepictureinpicture\n  disableremoteplayback\n>\n  <source src=\"https://desafio.modocaverna.com/wp-content/uploads/2025/07/video3_ultra.webm\" type=\"video/webm\" />\n  Seu navegador não suporta o vídeo.\n</video>",
+              "source": null,
+              "visible": true,
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "code",
+            "type": "script",
+            "title": "Script",
+            "category": "midea"
+          },
+          {
+            "id": "8eb92efe-83e2-4186-92ef-a742421ba26c",
+            "data": {
+              "text": "<p><strong>4. Siga os mandamentos</strong></p><p>Esses 40 microdesafios te guiarão durante a sua jornada na Caverna.</p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 18,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "d878ac27-46a2-4531-8b1d-07bcbf3ad0f2",
+            "data": {
+              "size": "w-full",
+              "style": "default",
+              "script": "<video \n  playsinline \n  webkit-playsinline \n  muted \n  autoplay \n  loop \n  width=\"100%\" \n  style=\"display: block; pointer-events: none; touch-action: none; user-select: none; margin: 0;\"\n  controlslist=\"nodownload nofullscreen noremoteplayback\"\n  disablepictureinpicture\n  disableremoteplayback\n>\n  <source src=\"https://desafio.modocaverna.com/wp-content/uploads/2025/07/video4_ultra.webm\" type=\"video/webm\" />\n  Seu navegador não suporta o vídeo.\n</video>",
+              "source": null,
+              "visible": true,
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "code",
+            "type": "script",
+            "title": "Script",
+            "category": "midea"
+          },
+          {
+            "id": "57521fa8-68a3-4d8d-91e6-ae65f4241c9d",
+            "data": {
+              "text": "<p><strong>5. Controle o seu progresso</strong></p><p>Ao final de cada dia, você deverá avaliar a sua conduta como positiva ou negativa.&nbsp;</p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 18,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "ea635446-7a79-4389-947d-906e32567cb5",
+            "data": {
+              "size": "w-full",
+              "style": "default",
+              "script": "<video \n  playsinline \n  webkit-playsinline \n  muted \n  autoplay \n  loop \n  width=\"100%\" \n  style=\"display: block; pointer-events: none; touch-action: none; user-select: none; margin: 0;\"\n  controlslist=\"nodownload nofullscreen noremoteplayback\"\n  disablepictureinpicture\n  disableremoteplayback\n>\n  <source src=\"https://desafio.modocaverna.com/wp-content/uploads/2025/07/video5_ultra.webm\" type=\"video/webm\" />\n  Seu navegador não suporta o vídeo.\n</video>",
+              "source": null,
+              "visible": true,
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "code",
+            "type": "script",
+            "title": "Script",
+            "category": "midea"
+          },
+          {
+            "id": "4b1983e2-2992-445a-8fce-0015381ac2b7",
+            "data": {
+              "text": "<p><strong>6. Histórico Registrado</strong></p><p>Dessa forma, você poderá acessar todos os seus Desafios passados.</p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 18,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "89614e87-d4a3-4e24-954d-28fb6c2a917f",
+            "data": {
+              "size": "w-full",
+              "style": "default",
+              "script": "<video \n  playsinline \n  webkit-playsinline \n  muted \n  autoplay \n  loop \n  width=\"100%\" \n  style=\"display: block; pointer-events: none; touch-action: none; user-select: none; margin: 0;\"\n  controlslist=\"nodownload nofullscreen noremoteplayback\"\n  disablepictureinpicture\n  disableremoteplayback\n>\n  <source src=\"https://desafio.modocaverna.com/wp-content/uploads/2025/08/gif-historico-modo-caverna.webm\" />\n  Seu navegador não suporta o vídeo.\n</video>",
+              "source": null,
+              "visible": true,
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "code",
+            "type": "script",
+            "title": "Script",
+            "category": "midea"
+          },
+          {
+            "id": "0116337b-2eb1-4339-9f99-f3dcd6feca5f",
+            "data": {
+              "text": "<p><strong>Relaxa</strong><span style=\"color: rgb(255, 255, 255);\">, você não precisa entender tudo agora. </span><u>É só dar o primeiro passo</u><span style=\"color: rgb(255, 255, 255);\">, o resto o aplicativo faz por você.</span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "5f3dd521-410c-4954-a234-834c5cc55353",
+            "data": {
+              "fixed": false,
+              "style": "default",
+              "title": "<p>EU QUERO O APLICATIVO!</p>",
+              "anchor": false,
+              "alignment": "center",
+              "animation": "pulse",
+              "videoDelay": false,
+              "anchorTarget": null,
+              "videoDelayTime": 10
+            },
+            "icon": "square-mouse-pointer",
+            "type": "button",
+            "title": "Botão",
+            "category": "action"
+          }
+        ]
+      },
+      "type": "page",
+      "width": 320,
+      "height": 1182,
+      "dragging": false,
+      "position": {
+        "x": 5333.474410445636,
+        "y": 65.94383604456567
+      },
+      "selected": false,
+      "positionAbsolute": {
+        "x": 5333.474410445636,
+        "y": 65.94383604456567
+      }
+    },
+    {
+      "id": "81682500-e2f5-48eb-8977-c8b5ca439077",
+      "data": {
+        "slug": "2o1k6r1a",
+        "title": "Nova Página",
+        "content": [
+          {
+            "id": "c742ba67-7fbd-4cc6-b92e-9cb5b1a493b6",
+            "data": {
+              "progressBar": {
+                "height": "5px",
+                "endColor": null,
+                "startColor": null,
+                "borderRadius": null,
+                "backgroundColor": "#825959"
+              },
+              "targetPercentage": 90
+            },
+            "icon": "stretch-horizontal",
+            "type": "progressV2",
+            "title": "Progresso",
+            "version": 2,
+            "category": "heading",
+            "nestable": true
+          },
+          {
+            "id": "fa258511-99da-437c-8bfd-56a21f37422b",
+            "data": {
+              "size": "w-full",
+              "image": {
+                "uuid": "d2267a54-8f2c-43da-b0b4-38ff79a24e68",
+                "width": 2000,
+                "height": 1000
+              },
+              "style": "default",
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "image",
+            "type": "image",
+            "title": "Imagem",
+            "category": "midea"
+          },
+          {
+            "id": "90227ddc-447c-4261-b006-483e8996a095",
+            "data": {
+              "style": "default",
+              "colors": {
+                "background": "#ffffff"
+              },
+              "elements": [
+                {
+                  "id": "86e7e7ea-c886-4b01-a692-7ea37f91b2de",
+                  "data": {
+                    "text": "<p><span style=\"color: rgb(0, 0, 0);\"><strong>Ao final dos 40 dias, você não será mais o mesmo.</strong></span></p><p><span style=\"color: rgb(255, 51, 51);\"><strong>E o mundo vai perceber.</strong></span></p>",
+                    "style": "default",
+                    "textSize": "custom",
+                    "animation": "fadeIn",
+                    "textSpacing": "auto",
+                    "textAlignment": "center",
+                    "textCustomSize": 24,
+                    "textLineHeight": "auto"
+                  },
+                  "icon": "text",
+                  "type": "textV2",
+                  "title": "Texto",
+                  "version": 2,
+                  "category": "reading",
+                  "nestable": true
+                },
+                {
+                  "id": "7685db49-dd7d-4d7b-9b8f-cf4670ec5ccc",
+                  "data": {
+                    "text": "$f",
+                    "style": "default",
+                    "textSize": "custom",
+                    "animation": "fadeIn",
+                    "textSpacing": "auto",
+                    "textAlignment": "left",
+                    "textCustomSize": 18,
+                    "textLineHeight": "auto"
+                  },
+                  "icon": "text",
+                  "type": "textV2",
+                  "title": "Texto",
+                  "version": 2,
+                  "category": "reading",
+                  "nestable": true
+                }
+              ],
+              "alignment": "center",
+              "animation": "fade-in",
+              "direction": "column",
+              "borderShow": true,
+              "customSize": 250,
+              "borderWidth": 1,
+              "borderRadius": "auto",
+              "backgroundShow": true,
+              "backgroundPadding": 12
+            },
+            "icon": "layout-grid",
+            "type": "containerV2",
+            "title": "Container",
+            "version": 2,
+            "category": "layout",
+            "nestable": false
+          },
+          {
+            "id": "d9e74d93-1050-4e75-9936-54b59b6c218d",
+            "data": {
+              "fixed": false,
+              "style": "default",
+              "title": "<p>EU QUERO ESSA TRANSFORMAÇÃO!</p>",
+              "anchor": false,
+              "alignment": "center",
+              "animation": "pulse",
+              "videoDelay": false,
+              "anchorTarget": null,
+              "videoDelayTime": 10
+            },
+            "icon": "square-mouse-pointer",
+            "type": "button",
+            "title": "Botão",
+            "category": "action"
+          }
+        ]
+      },
+      "type": "page",
+      "width": 320,
+      "height": 458,
+      "dragging": false,
+      "position": {
+        "x": 4862.63208738329,
+        "y": 75.99209498588709
+      },
+      "selected": false,
+      "positionAbsolute": {
+        "x": 4862.63208738329,
+        "y": 75.99209498588709
+      }
+    },
+    {
+      "id": "36f4b405-7fb7-47b2-b096-6a3cdfdca5e8",
+      "data": {
+        "slug": "2j1r540s",
+        "title": "Nova Página",
+        "content": [
+          {
+            "id": "c56a2fb7-5852-47b9-bbce-e2e42d31e8fb",
+            "data": {
+              "progressBar": {
+                "height": "5px",
+                "endColor": null,
+                "startColor": null,
+                "borderRadius": null,
+                "backgroundColor": "#825959"
+              },
+              "targetPercentage": 85
+            },
+            "icon": "stretch-horizontal",
+            "type": "progressV2",
+            "title": "Progresso",
+            "version": 2,
+            "category": "heading",
+            "nestable": true
+          },
+          {
+            "id": "f7b2ed85-5fa5-4c6d-87bd-2f2d0cbd43d4",
+            "data": {
+              "text": "<p><strong>O que te impede de conquistar o que você deseja?</strong></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 24,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "3f1dedf2-0cac-48d9-8e2f-5cd3625808e1",
+            "data": {
+              "text": "<p><span style=\"color: rgb(250, 204, 21);\">Escolha uma opção para avançar</span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "57db0549-7604-4625-a565-285ca8bb8610",
+            "data": {
+              "icon": {
+                "stroke": null
+              },
+              "text": {
+                "show": true,
+                "color": null,
+                "padding": null,
+                "spacing": null,
+                "fontSize": "19px",
+                "lineHeight": null,
+                "borderRadius": null,
+                "backgroundColor": null
+              },
+              "image": {
+                "borderRadius": null
+              },
+              "model": "text",
+              "format": "list",
+              "content": [
+                {
+                  "id": "054ae74f-8543-4625-9506-37a770bddc0d",
+                  "icon": {
+                    "name": "check-circle",
+                    "show": true
+                  },
+                  "text": {
+                    "show": true,
+                    "content": "<p><span style=\"color: rgb(255, 255, 255); font-size: 14.4px;\">Estou completamente perdido. Não sei o que fazer pra mudar essa situação. </span>🤯</p>"
+                  },
+                  "emoji": {
+                    "show": true,
+                    "content": "😏"
+                  },
+                  "image": {
+                    "show": true,
+                    "uuid": "d7f4ab85-80de-4674-abc8-8e13370c2b86"
+                  }
+                },
+                {
+                  "id": "8dc4fa07-7979-4c81-baaa-825f9c605869",
+                  "icon": {
+                    "name": "check-circle",
+                    "show": true
+                  },
+                  "text": {
+                    "show": true,
+                    "size": 25,
+                    "content": "<p><span style=\"color: rgb(255, 255, 255); font-size: 14.4px;\">Eu sei onde quero chegar e o que precisa ser feito, mas me distraio com facilidade. </span>🎯</p>",
+                    "opacity": 100,
+                    "lineHeight": 20
+                  },
+                  "emoji": {
+                    "show": true,
+                    "content": "🤩"
+                  },
+                  "image": {
+                    "show": true,
+                    "uuid": "7f5e5b60-78d2-45e9-9fde-79f9cd13511c"
+                  }
+                },
+                {
+                  "id": "43ad80ff-059e-4909-973f-af2158c61b6e",
+                  "icon": {
+                    "name": "check-circle",
+                    "show": true
+                  },
+                  "text": {
+                    "show": true,
+                    "size": 25,
+                    "content": "<p><span style=\"color: rgb(255, 255, 255); font-size: 14.4px;\">Eu sempre me comparo com outras pessoas e isso me deixa ansioso e paralisado. </span>😰</p>",
+                    "opacity": 100,
+                    "lineHeight": 20
+                  },
+                  "emoji": {
+                    "show": true,
+                    "content": "🤩"
+                  },
+                  "image": {
+                    "show": true,
+                    "uuid": "7f5e5b60-78d2-45e9-9fde-79f9cd13511c"
+                  }
+                }
+              ],
+              "checkbox": {
+                "show": true,
+                "width": "20px",
+                "spacing": null,
+                "placement": null,
+                "borderColor": null,
+                "borderWidth": "3px",
+                "borderRadius": null,
+                "backgroundColor": null
+              },
+              "multiple": false,
+              "required": true,
+              "alignment": "left",
+              "container": {
+                "delayTime": null,
+                "delayType": null,
+                "delayVideo": null,
+                "paddingTop": null,
+                "borderColor": "#ff3333",
+                "borderStyle": null,
+                "paddingLeft": null,
+                "borderRadius": "3px",
+                "paddingRight": null,
+                "animationName": null,
+                "paddingBottom": null,
+                "animationDelay": null,
+                "borderTopWidth": null,
+                "backgroundColor": null,
+                "backgroundImage": null,
+                "backgroundStyle": null,
+                "borderLeftWidth": null,
+                "borderRightWidth": null,
+                "animationDuration": null,
+                "borderBottomWidth": null,
+                "animationDirection": null,
+                "animationIterationCount": null,
+                "animationTimingFunction": null
+              },
+              "placement": "top"
+            },
+            "icon": "layout-list",
+            "type": "quizV2",
+            "title": "Quiz",
+            "version": 3,
+            "category": "action",
+            "nestable": true
+          }
+        ]
+      },
+      "type": "page",
+      "width": 320,
+      "height": 510,
+      "dragging": false,
+      "position": {
+        "x": 4411.947707948884,
+        "y": 70.01860090476646
+      },
+      "selected": false,
+      "positionAbsolute": {
+        "x": 4411.947707948884,
+        "y": 70.01860090476646
+      }
+    },
+    {
+      "id": "c4693921-dbfc-468a-bd9c-fbd8b277e0c2",
+      "data": {
+        "slug": "3w5u2n3q",
+        "title": "Nova Página",
+        "content": [
+          {
+            "id": "29226b1f-9284-499c-97df-f5e9240eb66f",
+            "data": {
+              "progressBar": {
+                "height": "5px",
+                "endColor": null,
+                "startColor": null,
+                "borderRadius": null,
+                "backgroundColor": "#825959"
+              },
+              "targetPercentage": 80
+            },
+            "icon": "stretch-horizontal",
+            "type": "progressV2",
+            "title": "Progresso",
+            "version": 2,
+            "category": "heading",
+            "nestable": true
+          },
+          {
+            "id": "e9635d9b-f632-49c7-91b5-b40117053880",
+            "data": {
+              "text": "<p><strong>Qual seu objetivo, o que você espera conquistar com o Modo Caverna?</strong></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 24,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "f9a07118-045a-4fe4-83ba-9d1fec7192de",
+            "data": {
+              "text": "<p><span style=\"color: rgb(250, 204, 21);\">Escolha uma opção para avançar</span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "0b23e82a-80de-4adb-922b-6f02d306a92a",
+            "data": {
+              "icon": {
+                "stroke": null
+              },
+              "text": {
+                "show": true,
+                "color": null,
+                "padding": null,
+                "spacing": null,
+                "fontSize": "19px",
+                "lineHeight": null,
+                "borderRadius": null,
+                "backgroundColor": null
+              },
+              "image": {
+                "borderRadius": null
+              },
+              "model": "text",
+              "format": "list",
+              "content": [
+                {
+                  "id": "64716462-483c-44cd-ae88-69647acb6168",
+                  "icon": {
+                    "name": "check-circle",
+                    "show": true
+                  },
+                  "text": {
+                    "show": true,
+                    "content": "<p><span style=\"color: rgb(255, 255, 255); font-size: 14.4px;\">Melhorar meus hábitos e rotina.&nbsp;&nbsp;Me tornar mais focado e produtivo. </span>🏋️‍♂️</p>"
+                  },
+                  "emoji": {
+                    "show": true,
+                    "content": "😏"
+                  },
+                  "image": {
+                    "show": true,
+                    "uuid": "d7f4ab85-80de-4674-abc8-8e13370c2b86"
+                  }
+                },
+                {
+                  "id": "fcc7e98b-0f50-4c57-be69-fe465af618ab",
+                  "icon": {
+                    "name": "check-circle",
+                    "show": true
+                  },
+                  "text": {
+                    "show": true,
+                    "size": 25,
+                    "content": "<p><span style=\"color: rgb(255, 255, 255); font-size: 14.4px;\">Descobrir o meu propósito, me desenvolver&nbsp;como pessoa e conquistar a felicidade.</span>😊</p>",
+                    "opacity": 100,
+                    "lineHeight": 20
+                  },
+                  "emoji": {
+                    "show": true,
+                    "content": "🤩"
+                  },
+                  "image": {
+                    "show": true,
+                    "uuid": "7f5e5b60-78d2-45e9-9fde-79f9cd13511c"
+                  }
+                },
+                {
+                  "id": "7c14e83e-d571-4a23-9b80-a00f625bd577",
+                  "icon": {
+                    "name": "check-circle",
+                    "show": true
+                  },
+                  "text": {
+                    "show": true,
+                    "size": 25,
+                    "content": "<p><span style=\"color: rgb(255, 255, 255); font-size: 14.4px;\">Ganhar mais dinheiro e poder proporcionar uma vida melhor para a minha família. </span>💰</p>",
+                    "opacity": 100,
+                    "lineHeight": 20
+                  },
+                  "emoji": {
+                    "show": true,
+                    "content": "🤩"
+                  },
+                  "image": {
+                    "show": true,
+                    "uuid": "7f5e5b60-78d2-45e9-9fde-79f9cd13511c"
+                  }
+                }
+              ],
+              "checkbox": {
+                "show": true,
+                "width": "20px",
+                "spacing": null,
+                "placement": null,
+                "borderColor": null,
+                "borderWidth": "3px",
+                "borderRadius": null,
+                "backgroundColor": null
+              },
+              "multiple": false,
+              "required": true,
+              "alignment": "left",
+              "container": {
+                "delayTime": null,
+                "delayType": null,
+                "delayVideo": null,
+                "paddingTop": null,
+                "borderColor": "#ff3333",
+                "borderStyle": null,
+                "paddingLeft": null,
+                "borderRadius": "3px",
+                "paddingRight": null,
+                "animationName": null,
+                "paddingBottom": null,
+                "animationDelay": null,
+                "borderTopWidth": null,
+                "backgroundColor": null,
+                "backgroundImage": null,
+                "backgroundStyle": null,
+                "borderLeftWidth": null,
+                "borderRightWidth": null,
+                "animationDuration": null,
+                "borderBottomWidth": null,
+                "animationDirection": null,
+                "animationIterationCount": null,
+                "animationTimingFunction": null
+              },
+              "placement": "top"
+            },
+            "icon": "layout-list",
+            "type": "quizV2",
+            "title": "Quiz",
+            "version": 3,
+            "category": "action",
+            "nestable": true
+          }
+        ]
+      },
+      "type": "page",
+      "width": 320,
+      "height": 510,
+      "dragging": false,
+      "position": {
+        "x": 3937.543382419294,
+        "y": 73.35193423809977
+      },
+      "selected": false,
+      "positionAbsolute": {
+        "x": 3937.543382419294,
+        "y": 73.35193423809977
+      }
+    },
+    {
+      "id": "49f1646b-fcd3-4df1-af46-d6954420efbe",
+      "data": {
+        "slug": "0y610p2f",
+        "title": "Nova Página",
+        "content": [
+          {
+            "id": "9f7fba41-39de-47e8-b0f0-aedeb12fcb68",
+            "data": {
+              "progressBar": {
+                "height": "5px",
+                "endColor": null,
+                "startColor": null,
+                "borderRadius": null,
+                "backgroundColor": "#825959"
+              },
+              "targetPercentage": 70
+            },
+            "icon": "stretch-horizontal",
+            "type": "progressV2",
+            "title": "Progresso",
+            "version": 2,
+            "category": "heading",
+            "nestable": true
+          },
+          {
+            "id": "c2ca7dba-7939-4776-9c25-afcfb6adb542",
+            "data": {
+              "text": "<p><strong>O Nathan decidiu ativar o Modo Caverna.&nbsp;</strong></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 24,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "75f10e8d-ea90-43e8-b329-31ca0a446285",
+            "data": {
+              "url": "https://youtu.be/KJEbtjkMG8Y",
+              "size": "w-full",
+              "type": "youtube",
+              "style": "default",
+              "thumb": {
+                "uuid": "d7f4ab85-80de-4674-abc8-8e13370c2b86",
+                "width": 200,
+                "height": 200
+              },
+              "aspect": "16/9",
+              "source": "<div id=\"vid_6694fcc1fed57d000b985139\" style=\"position:relative;width:100%;padding: 56.25% 0 0;\"> <img id=\"thumb_6694fcc1fed57d000b985139\" src=\"https://images.converteai.net/51bb56e8-38bf-4e58-87dd-2429e902a5b3/players/6694fcc1fed57d000b985139/thumbnail.jpg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;display:block;\"> <div id=\"backdrop_6694fcc1fed57d000b985139\" style=\"position:absolute;top:0;width:100%;height:100%;-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px);\"></div> </div> <script type=\"text/javascript\" id=\"scr_6694fcc1fed57d000b985139\"> var s=document.createElement(\"script\"); s.src=\"https://scripts.converteai.net/51bb56e8-38bf-4e58-87dd-2429e902a5b3/players/6694fcc1fed57d000b985139/player.js\", s.async=!0,document.head.appendChild(s); </script> <style> .elementor-element:has(#smartplayer) { width: 100%; } </style>",
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "play",
+            "type": "video",
+            "title": "Vídeo",
+            "category": "midea"
+          },
+          {
+            "id": "b0c40dac-b4e6-4996-b625-154c986f9a86",
+            "data": {
+              "text": "<p><strong>Dezenas de milhares de pessoas despertando da mediocridade.</strong></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "a6d47522-613f-4f30-9be8-cbe42609d608",
+            "data": {
+              "size": "w-full",
+              "style": "default",
+              "content": [
+                {
+                  "id": "e7d853cd-0a92-4281-bcb3-56ab3caf43c3",
+                  "image": {
+                    "uuid": "d19c7d51-9979-4fd1-aecb-1bc4c012667f",
+                    "width": 651,
+                    "height": 1024
+                  },
+                  "title": "Imagem 1"
+                },
+                {
+                  "id": "dc4cbcb2-5008-48c3-bbbf-12d85884465b",
+                  "image": {
+                    "uuid": "f0431421-cd3f-43ee-8309-7c12bca0eaec",
+                    "width": 651,
+                    "height": 1024
+                  },
+                  "title": "Imagem 1 (2)"
+                },
+                {
+                  "id": "cc162704-0794-4d21-8d15-22c3c6215fbe",
+                  "image": {
+                    "uuid": "f95566dc-b2ea-4621-95e5-1dcb14245b18",
+                    "width": 651,
+                    "height": 1024
+                  },
+                  "title": "Imagem 1 (2) (2)"
+                },
+                {
+                  "id": "20b93877-ff18-4b57-8fb1-2f8000685d6e",
+                  "image": {
+                    "uuid": "caf372d4-9a3a-4bfb-a854-c175dee98c17",
+                    "width": 651,
+                    "height": 1024
+                  },
+                  "title": "Imagem 1 (2) (2) (2)"
+                },
+                {
+                  "id": "d3efb92e-f108-4e09-abad-4e26f57554b1",
+                  "image": {
+                    "uuid": "28d95542-cc1a-4c45-ab05-479cfd66e933",
+                    "width": 651,
+                    "height": 1024
+                  },
+                  "title": "Imagem 1 (2) (2) (2) (2)"
+                }
+              ],
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "gallery-horizontal-end",
+            "type": "carousel",
+            "title": "Carrossel",
+            "category": "midea"
+          },
+          {
+            "id": "decd7997-602b-4107-acb9-bcb68565e59d",
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 255, 255);\">Todos decidiram acordar e se libertarem da prisão invisível...</span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "9dec07bc-7c8f-4114-8cf5-7b35d4a762d8",
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 51, 51);\"><strong>E aí, você vai ser o próximo?</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "72294286-3484-4d70-9073-cd67cc7c727a",
+            "data": {
+              "fixed": false,
+              "style": "default",
+              "title": "<p>SIM, EU ESTOU DECIDIDO!</p>",
+              "anchor": false,
+              "alignment": "center",
+              "animation": "pulse",
+              "videoDelay": false,
+              "anchorTarget": null,
+              "videoDelayTime": 10
+            },
+            "icon": "square-mouse-pointer",
+            "type": "button",
+            "title": "Botão",
+            "category": "action"
+          }
+        ]
+      },
+      "type": "page",
+      "width": 320,
+      "height": 638,
+      "dragging": false,
+      "position": {
+        "x": 3509.899883747624,
+        "y": 78.78357247944746
+      },
+      "selected": false,
+      "positionAbsolute": {
+        "x": 3509.899883747624,
+        "y": 78.78357247944746
+      }
+    },
+    {
+      "id": "caae14b4-baec-4f08-a98a-48b2004cffaf",
+      "data": {
+        "slug": "2f1o2d2r",
+        "title": "Nova Página",
+        "content": [
+          {
+            "id": "82e18420-5fb5-4d21-92ca-1469a63de02c",
+            "data": {
+              "progressBar": {
+                "height": "5px",
+                "endColor": null,
+                "startColor": null,
+                "borderRadius": null,
+                "backgroundColor": "#825959"
+              },
+              "targetPercentage": 60
+            },
+            "icon": "stretch-horizontal",
+            "type": "progressV2",
+            "title": "Progresso",
+            "version": 2,
+            "category": "heading",
+            "nestable": true
+          },
+          {
+            "id": "5fcdc9d8-4da5-4321-8583-b7564034db9e",
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 51, 51);\"><strong>Mas 40 dias é tempo suficiente pra transformar uma vida?</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 24,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "c69c257c-bd4a-4929-8e43-f36991a18b4b",
+            "data": {
+              "text": "<p><strong>Depende... Do quão intenso você está disposto a ser.</strong></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "719ad431-880d-4154-bf39-41cb051981f2",
+            "data": {
+              "text": "<p><strong>É como em Dragon Ball Z...</strong></p><p><span style=\"color: rgb(255, 255, 255);\">Quando Goku e seus amigos precisavam enfrentar um inimigo mais poderoso, eles recorriam à famosa Sala do Tempo.&nbsp;</span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "3d03c443-535b-48e9-b2a6-e172c706b1b7",
+            "data": {
+              "size": "w-full",
+              "image": {
+                "uuid": "1f83e967-66e4-4d3e-b66e-c5469ab47fc1",
+                "width": 2000,
+                "height": 1500
+              },
+              "style": "default",
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "image",
+            "type": "image",
+            "title": "Imagem",
+            "category": "midea"
+          },
+          {
+            "id": "7dda4a20-b2e1-4c5f-8c16-2ce396047ff8",
+            "data": {
+              "text": "<p><strong>Dentro daquela sala, o tempo funcionava de uma forma diferente: um dia correspondia apenas um minuto fora dela.</strong></p><p></p><p><span style=\"color: rgb(255, 255, 255);\">Eles se <u>isolavam completamente</u> e seguiam um plano rigoroso de treinamento. O ambiente era <strong><em>intenso</em></strong>, <strong><em>desafiador</em></strong>, mas <strong><em>altamente transformador</em></strong>.</span></p><p></p><p><span style=\"color: rgb(255, 255, 255);\">E quando finalmente saíam da Sala do Tempo, mal havia se passado um dia no mundo externo, mas para eles, era como se tivessem <strong>evoluído um ano em um único dia</strong>.</span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "b9c4e3a3-ef8f-40d0-99c4-d863a3acca44",
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 255, 255);\">Einstein dizia que a<em> </em><u><em>intensidade distorce o tempo</em></u><em>.</em>&nbsp;É por isso que, em 40 dias, o </span><span style=\"color: rgb(255, 51, 51);\"><strong>Modo Caverna</strong></span><span style=\"color: rgb(255, 255, 255);\"> pode fazer o que muitos não conseguem em uma vida inteira.</span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "c2f6a123-f8c4-470f-a1ec-cb2ac7e8ade3",
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 51, 51);\"><strong>Você está pronto pra evoluir 5 anos em apenas 40 dias?</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "3081db6f-5ea2-4d6e-98b9-acf1d980e82c",
+            "data": {
+              "fixed": false,
+              "style": "default",
+              "title": "<p>SIM, EU PRECISO!</p>",
+              "anchor": false,
+              "alignment": "center",
+              "animation": "pulse",
+              "videoDelay": false,
+              "anchorTarget": null,
+              "videoDelayTime": 10
+            },
+            "icon": "square-mouse-pointer",
+            "type": "button",
+            "title": "Botão",
+            "category": "action"
+          }
+        ]
+      },
+      "type": "page",
+      "width": 320,
+      "height": 774,
+      "dragging": false,
+      "position": {
+        "x": 3081.3637101097543,
+        "y": 74.58115569724521
+      },
+      "selected": false,
+      "positionAbsolute": {
+        "x": 3081.3637101097543,
+        "y": 74.58115569724521
+      }
+    },
+    {
+      "id": "8061f36a-00bd-4dcd-82ab-7317008c9aad",
+      "data": {
+        "slug": "5d2w2e5q",
+        "title": "Nova Página",
+        "content": [
+          {
+            "id": "08fc4bd9-682d-41dc-b06c-008fed1bbb62",
+            "data": {
+              "progressBar": {
+                "height": "5px",
+                "endColor": null,
+                "startColor": null,
+                "borderRadius": null,
+                "backgroundColor": "#825959"
+              },
+              "targetPercentage": 50
+            },
+            "icon": "stretch-horizontal",
+            "type": "progressV2",
+            "title": "Progresso",
+            "version": 2,
+            "category": "heading",
+            "nestable": true
+          },
+          {
+            "id": "5e8e65d3-e0dc-41dc-bffe-c7f96549d967",
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 51, 51);\"><strong>O Modo Caverna não é só um desafio.</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 24,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "329df400-9e47-4d80-87b6-ca5cbb2cbac7",
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 255, 255);\"><strong>Vai muito além</strong></span> de simples mudanças de hábitos ou truques baratos de produtividade...</p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "c3596470-0c37-454d-97cd-3c8cfa26eae7",
+            "data": {
+              "text": "<p><span style=\"color: rgb(240, 213, 36);\"><strong>É UM RITUAL DE TRANSFORMAÇÃO</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "small",
+              "textAlignment": "center",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "83d4c032-d5ec-40b6-ace0-6f4a416e0728",
+            "data": {
+              "text": "<p>Uma jornada de 40 dias pra forjar disciplina, foco e renascimento pessoal.</p><p></p><p>Na Bíblia, esse mesmo período é utilizado para simbolizar <span style=\"color: rgb(255, 255, 255);\"><strong>um tempo de provação, preparação e renovação.</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "b671e184-1ccd-4cce-a7d6-de26d9dc9e9d",
+            "data": {
+              "size": "w-full",
+              "image": {
+                "uuid": "de745adb-bfd9-4e1d-8636-97c0ca9ba85a",
+                "width": 2000,
+                "height": 1500
+              },
+              "style": "default",
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "image",
+            "type": "image",
+            "title": "Imagem",
+            "category": "midea"
+          },
+          {
+            "id": "5d67a006-2d3e-4a62-8f29-52008111e109",
+            "data": {
+              "text": "<p><strong>Agora você entende o poder de estar 40 dias focado na Caverna?</strong></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "c93d7283-d864-495c-9714-cbb456900fa9",
+            "data": {
+              "fixed": false,
+              "style": "default",
+              "title": "<p>SIM, TA FAZENDO SENTIDO!</p>",
+              "anchor": false,
+              "alignment": "center",
+              "animation": "pulse",
+              "videoDelay": false,
+              "anchorTarget": null,
+              "videoDelayTime": 10
+            },
+            "icon": "square-mouse-pointer",
+            "type": "button",
+            "title": "Botão",
+            "category": "action"
+          }
+        ]
+      },
+      "type": "page",
+      "width": 320,
+      "height": 638,
+      "dragging": false,
+      "position": {
+        "x": 2633.160312495404,
+        "y": 67.84463762386562
+      },
+      "selected": false,
+      "positionAbsolute": {
+        "x": 2633.160312495404,
+        "y": 67.84463762386562
+      }
+    },
+    {
+      "id": "29687ef4-4d1f-40d1-927c-2f84449bf5b0",
+      "data": {
+        "slug": "5e4k5c27",
+        "title": "Nova Página",
+        "content": [
+          {
+            "id": "6bb770fa-a06c-4027-91e4-f9c1a1e4f4a8",
+            "data": {
+              "progressBar": {
+                "height": "5px",
+                "endColor": null,
+                "startColor": null,
+                "borderRadius": null,
+                "backgroundColor": "#825959"
+              },
+              "targetPercentage": 40
+            },
+            "icon": "stretch-horizontal",
+            "type": "progressV2",
+            "title": "Progresso",
+            "version": 2,
+            "category": "heading",
+            "nestable": true
+          },
+          {
+            "id": "f40f0167-dacc-4ede-b2b0-278abfee0396",
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 255, 255);\"><strong>ANTES DE PROSSEGUIR, LEIA COM ATENÇÃO</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 24,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "08d37420-3ab7-426e-aa6c-3df244ec4a80",
+            "data": {
+              "icon": "AlertCircle",
+              "text": "<p><span style=\"color: rgb(0, 0, 0);\">É um campo de batalha pra quem decidiu encarar a verdade nua e crua: <strong>ninguém vai te salvar.</strong></span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\">Ela não é pra quem quer paz agora.<strong> É pra quem busca a glória lá na frente.</strong></span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\"><strong>Pra quem aceita carregar o peso</strong> — e ainda pede por <u>mais força:</u> <em>“Senhor, não tira de mim esse fardo… mas aumenta as minhas forças e coragem.”</em></span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\"><strong>Se essa oração faz sentido pra você…</strong> talvez você seja um de nós.</span></p><p></p><p><span style=\"color: rgb(0, 0, 0);\">Mas se prefere se <u>anestesiar</u> com <strong>desculpas </strong>e <strong>vitimismo</strong>…</span></p><p></p><p><span style=\"color: rgb(255, 51, 51);\"><strong>Feche essa página agora e não volte mais!</strong></span></p>",
+              "style": "default",
+              "title": "<p>A Caverna não é um refúgio confortável.</p>",
+              "colors": {
+                "text": "#131313",
+                "border": "#fff08f",
+                "background": "#ffdd00"
+              },
+              "animation": "fade-in"
+            },
+            "icon": "sticky-note",
+            "type": "note",
+            "title": "Nota",
+            "category": "reading"
+          },
+          {
+            "id": "bc51accb-4942-4ea5-80f8-d7ac7cbb5bf2",
+            "data": {
+              "fixed": false,
+              "style": "default",
+              "title": "<p>EU QUERO PROSSEGUIR!</p>",
+              "anchor": false,
+              "alignment": "center",
+              "animation": "pulse",
+              "videoDelay": false,
+              "anchorTarget": null,
+              "videoDelayTime": 10
+            },
+            "icon": "square-mouse-pointer",
+            "type": "button",
+            "title": "Botão",
+            "category": "action"
+          }
+        ]
+      },
+      "type": "page",
+      "width": 320,
+      "height": 366,
+      "dragging": false,
+      "position": {
+        "x": 2218.625904701681,
+        "y": 70.63611511742604
+      },
+      "selected": false,
+      "positionAbsolute": {
+        "x": 2218.625904701681,
+        "y": 70.63611511742604
+      }
+    },
+    {
+      "id": "81480284-c4fe-469f-a71e-70794f1c12a3",
+      "data": {
+        "slug": "4a2w3x17",
+        "title": "Nova Página",
+        "content": [
+          {
+            "id": "0466dfbb-e90e-48ef-b54c-e4e4478544f7",
+            "data": {
+              "progressBar": {
+                "height": "5px",
+                "endColor": null,
+                "startColor": null,
+                "borderRadius": null,
+                "backgroundColor": "#825959"
+              },
+              "targetPercentage": 30
+            },
+            "icon": "stretch-horizontal",
+            "type": "progressV2",
+            "title": "Progresso",
+            "version": 2,
+            "category": "heading",
+            "nestable": true
+          },
+          {
+            "id": "eb8f4f76-830c-4ac7-a1ef-a4e9493bc166",
+            "data": {
+              "text": "<p><strong>A SAÍDA EXISTE.</strong></p><p><span style=\"color: rgb(255, 51, 51);\"><strong>MAS ELA COBRA UM PREÇO.</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 24,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "975f57ee-bf6b-4e2d-b3cd-390c2b52a9d3",
+            "data": {
+              "text": "<p><strong>Não é dinheiro. Nem sorte. </strong></p><p><strong>Não se trata de talento.</strong></p><p></p><p><span style=\"color: rgb(255, 206, 0);\"><strong>Estou falando de RENÚNCIAS!</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 24,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "2a0f448e-ec14-41ef-8796-7f8065309ce4",
+            "data": {
+              "text": "<p><span style=\"color: rgb(238, 68, 68);\"><strong>· Dos vícios</strong></span> que te aliviam por minutos... e te destroem por anos.</p><p></p><p><span style=\"color: rgb(238, 68, 68);\"><strong>· Das pessoas </strong></span>que sempre te arrastam para o passado e tentam te condenar a uma vida que você não quer mais viver.</p><p></p><p><span style=\"color: rgb(238, 68, 68);\"><strong>· Dos velhos hábitos, comportamentos e lugares </strong></span>que te puxam de volta sempre que você tenta subir.</p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "57121e33-0c86-4560-a3a1-444c29a531a0",
+            "data": {
+              "size": "w-full",
+              "image": {
+                "uuid": "83e23679-3cde-4e0f-bda7-079e69336c83",
+                "width": 1024,
+                "height": 240
+              },
+              "style": "default",
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "image",
+            "type": "image",
+            "title": "Imagem",
+            "category": "midea"
+          },
+          {
+            "id": "9c67ada7-9c4c-4e98-8530-60f0aaacba54",
+            "data": {
+              "style": "default",
+              "title": "<p><strong>Foi exatamente o que eu fiz.</strong></p>",
+              "subtitle": "<p>Veja o que aconteceu:</p>",
+              "alignment": "center",
+              "animation": "fade-in",
+              "titleSize": "text-xl",
+              "subtitleSize": "text-sm"
+            },
+            "icon": "type",
+            "type": "title",
+            "title": "Título",
+            "category": "heading"
+          },
+          {
+            "id": "4b3e7c5c-1e17-41a7-8cde-b727777cb826",
+            "data": {
+              "url": "https://www.youtube.com/embed/_u_O0dWPGHk?rel=0&autoplay=0&mute=0",
+              "size": "w-full",
+              "type": "youtube",
+              "style": "default",
+              "thumb": {
+                "uuid": "d7f4ab85-80de-4674-abc8-8e13370c2b86",
+                "width": 200,
+                "height": 200
+              },
+              "aspect": "16/9",
+              "source": "<div id=\"vid_6694fcc1fed57d000b985139\" style=\"position:relative;width:100%;padding: 56.25% 0 0;\"> <img id=\"thumb_6694fcc1fed57d000b985139\" src=\"https://images.converteai.net/51bb56e8-38bf-4e58-87dd-2429e902a5b3/players/6694fcc1fed57d000b985139/thumbnail.jpg\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;display:block;\"> <div id=\"backdrop_6694fcc1fed57d000b985139\" style=\"position:absolute;top:0;width:100%;height:100%;-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px);\"></div> </div> <script type=\"text/javascript\" id=\"scr_6694fcc1fed57d000b985139\"> var s=document.createElement(\"script\"); s.src=\"https://scripts.converteai.net/51bb56e8-38bf-4e58-87dd-2429e902a5b3/players/6694fcc1fed57d000b985139/player.js\", s.async=!0,document.head.appendChild(s); </script> <style> .elementor-element:has(#smartplayer) { width: 100%; } </style>",
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "play",
+            "type": "video",
+            "title": "Vídeo",
+            "category": "midea"
+          },
+          {
+            "id": "6e96ef23-216f-403f-a355-adcc11951525",
+            "data": {
+              "text": "<p>Em menos de 1 ano, mudei a minha realidade e transbordei abundância pra toda a minha família.</p><p></p><p><strong>Isso só foi possível, e em tão pouco tempo, graças ao Modo Caverna.</strong></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "5f7576b2-7c73-4207-8163-ebf41c13edbf",
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 51, 51);\"><strong>A pergunta é: Você está realmente disposto(a) a deixar tudo isso pra trás?</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "0d824960-5862-4fbc-9e7c-a412718be5cc",
+            "data": {
+              "fixed": false,
+              "style": "default",
+              "title": "<p>SIM, ESTOU PRONTO!</p>",
+              "anchor": false,
+              "alignment": "center",
+              "animation": "pulse",
+              "videoDelay": false,
+              "anchorTarget": null,
+              "videoDelayTime": 10
+            },
+            "icon": "square-mouse-pointer",
+            "type": "button",
+            "title": "Botão",
+            "category": "action"
+          }
+        ]
+      },
+      "type": "page",
+      "width": 320,
+      "height": 774,
+      "dragging": false,
+      "position": {
+        "x": 1776.6540136300932,
+        "y": 85.00859069653188
+      },
+      "selected": false,
+      "positionAbsolute": {
+        "x": 1776.6540136300932,
+        "y": 85.00859069653188
+      }
+    },
+    {
+      "id": "b8e25c0e-3add-4456-8301-90108c562eb4",
+      "data": {
+        "slug": "290p3a4r",
+        "title": "Nova Página",
+        "content": [
+          {
+            "id": "efc2ab64-97be-4bad-93be-b694987c42bb",
+            "data": {
+              "progressBar": {
+                "height": "5px",
+                "endColor": null,
+                "startColor": null,
+                "borderRadius": null,
+                "backgroundColor": "#825959"
+              },
+              "targetPercentage": 20
+            },
+            "icon": "stretch-horizontal",
+            "type": "progressV2",
+            "title": "Progresso",
+            "version": 2,
+            "category": "heading",
+            "nestable": true
+          },
+          {
+            "id": "d53d9634-09ff-4c32-83b0-17e111b918aa",
+            "data": {
+              "text": "<p><strong>Você acha que está no controle… </strong><span style=\"color: rgb(238, 68, 68);\"><strong>Mas vive como um rato num labirinto invisível</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 24,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "c58feccc-20ac-4070-9861-708ef24fbd3f",
+            "data": {
+              "text": "<p>E pra te manter preso, não é preciso algemas ou correntes. <span style=\"color: rgb(255, 255, 255);\"><strong>Basta manter sua mente ocupada o suficiente para que nunca perceba que vive como escravo.</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "fc0dd5af-a0d0-4b05-b661-9ddeb1f2f353",
+            "data": {
+              "size": "w-full",
+              "style": "default",
+              "script": "<style>\n@import url(\"https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700\");\n\n*,\n*:before,\n*:after {\n  box-sizing: border-box;\n}\n\nbody,\nhtml {\n  margin: 0;\n  padding: 0;\n  font-family: aeonik, arial, tahoma, verdana;\n  background: #000000;\n  color: #726f77;\n}\n\n.container {\n  max-width: 100%;\n  margin: 0 auto;\n  text-align: center;\n}\n\nh1 {\n  color: #ff3333;\n  font-family: \"Aeonik\", arial, tahoma, verdana;\n  font-weight: 600;\n  font-size: 28px;\n  text-transform: uppercase;\n  line-height: 1.4;\n}\n\n.image-wrapper {\n  max-width: 800px;\n  margin: 0 auto;\n  border: 2px solid #fff;\n  border-radius: 8px;\n  overflow: hidden;\n}\n</style>\n\n<div class=\"container\">\n  <div class=\"image-wrapper\">\n    <img src=\"https://desafio.modocaverna.com/wp-content/uploads/2025/06/ezgif.com-optiwebp.webp\"\n         alt=\"Animação Modo Caverna\"\n         style=\"width: 100%; display: block;\" />\n  </div>\n</div>",
+              "source": null,
+              "visible": true,
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "code",
+            "type": "script",
+            "title": "Script",
+            "category": "midea"
+          },
+          {
+            "id": "549f2266-a265-4a0f-9f36-4a0a8318487a",
+            "data": {
+              "text": "<p><strong>Será que você é tão inocente ao ponto de acreditar que isso não é pura coincidência?</strong></p><p></p><p><span style=\"color: rgb(255, 255, 255);\">- É um projeto bem elaborado</span></p><p><span style=\"color: rgb(255, 255, 255);\">- É o Pão e circo moderno</span></p><p><span style=\"color: rgb(255, 255, 255);\">- É o Modo Sobrevivência</span></p><p></p><p><strong>E funciona.&nbsp;Funciona tão bem que você acha que é livre…&nbsp;</strong><span style=\"color: rgb(255, 51, 51);\"><strong>Mas não é!</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "298d8767-b76d-4a2b-9630-72f03656485d",
+            "data": {
+              "fixed": true,
+              "style": "default",
+              "title": "<p>QUERO SAIR DA PRISÃO!</p>",
+              "anchor": false,
+              "alignment": "center",
+              "animation": "pulse",
+              "videoDelay": false,
+              "delayToShow": {
+                "type": "time",
+                "enabled": false
+              },
+              "anchorTarget": null,
+              "videoDelayTime": 10
+            },
+            "icon": "square-mouse-pointer",
+            "type": "button",
+            "title": "Botão",
+            "category": "action"
+          }
+        ]
+      },
+      "type": "page",
+      "width": 320,
+      "height": 502,
+      "dragging": false,
+      "position": {
+        "x": 1343.5815410282326,
+        "y": 81.80202509166779
+      },
+      "selected": false,
+      "positionAbsolute": {
+        "x": 1343.5815410282326,
+        "y": 81.80202509166779
+      }
+    },
+    {
+      "id": "3064a615-1b4e-4e3e-aa30-a58e276daffe",
+      "data": {
+        "slug": "4u4j1k71",
+        "title": "Nova Página",
+        "content": [
+          {
+            "id": "5c118f7c-1afd-4017-b323-222c63a62c66",
+            "data": {
+              "progressBar": {
+                "height": "5px",
+                "endColor": null,
+                "startColor": null,
+                "borderRadius": null,
+                "backgroundColor": "#825959"
+              },
+              "targetPercentage": 10
+            },
+            "icon": "stretch-horizontal",
+            "type": "progressV2",
+            "title": "Progresso",
+            "version": 2,
+            "category": "heading",
+            "nestable": true
+          },
+          {
+            "id": "3d7577f2-0889-4880-8949-ecb3d7c6b0e4",
+            "data": {
+              "text": "<p><span style=\"color: rgb(255, 51, 51);\"><strong>VOCÊ PROMETEU QUE ESSE ANO SERIA DIFERENTE, LEMBRA?</strong></span></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 24,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "4e27c5e8-4352-4f0b-939b-5d64c7c68e25",
+            "data": {
+              "text": "<p><strong>Mas olha pra sua vida: <em>mesma rotina, mesmos vícios, mesmas desculpas.</em></strong></p><p></p><p><strong>E o pior:</strong> você já começou a se conformar em sobreviver, contando moedas e vivendo de favor, como se isso fosse normal.</p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "5518563a-bbc5-4a20-9d7e-e326d2fe54ab",
+            "data": {
+              "size": "w-full",
+              "image": {
+                "uuid": "c5ea08eb-0f91-4569-8fd1-d206c24356e2",
+                "width": 1024,
+                "height": 544
+              },
+              "style": "default",
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "image",
+            "type": "image",
+            "title": "Imagem",
+            "category": "midea"
+          },
+          {
+            "id": "53045a9c-1b55-414e-99f5-1c1d9350e80e",
+            "data": {
+              "text": "<p><strong>Daqui a 5 anos, quando olhar pra trás, o que vai doer mais: </strong>ter tentado e falhado ou nunca ter tentado mudar?</p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "left",
+              "textCustomSize": 19,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "ea2f6beb-1863-411b-ac51-ec6c2eb301c5",
+            "data": {
+              "fixed": false,
+              "style": "default",
+              "title": "<p>EU NÃO QUERO VIVER ASSIM</p>",
+              "anchor": false,
+              "alignment": "center",
+              "animation": "pulse",
+              "videoDelay": false,
+              "anchorTarget": null,
+              "videoDelayTime": 10
+            },
+            "icon": "square-mouse-pointer",
+            "type": "button",
+            "title": "Botão",
+            "category": "action"
+          }
+        ]
+      },
+      "type": "page",
+      "width": 320,
+      "height": 502,
+      "dragging": false,
+      "position": {
+        "x": 891.8343450887928,
+        "y": 76.42929654840123
+      },
+      "selected": false,
+      "positionAbsolute": {
+        "x": 891.8343450887928,
+        "y": 76.42929654840123
+      }
+    },
+    {
+      "id": "52f0c8ca-94df-4287-acec-03a644a65690",
+      "data": {
+        "slug": "564p0l6u",
+        "title": "Inicio",
+        "content": [
+          {
+            "id": "ce656819-29ac-4aaa-8c9c-d43ebe4094ca",
+            "data": {
+              "size": "w-full",
+              "style": "default",
+              "script": "<video \n  class=\"elementor-video\"\n  src=\"https://desafio.modocaverna.com/wp-content/uploads/2025/04/primeiradobra.mp4\"\n  autoplay\n  loop\n  muted\n  playsinline\n  controlslist=\"nodownload\">\n</video>",
+              "source": null,
+              "visible": true,
+              "alignment": "center",
+              "animation": "fade-in"
+            },
+            "icon": "code",
+            "type": "script",
+            "title": "Script",
+            "category": "midea"
+          },
+          {
+            "id": "54048ea7-293d-4f42-8897-bfec52f7e950",
+            "data": {
+              "text": "<p><span style=\"color: rgb(238, 68, 68);\"><strong>40 dias.</strong></span><strong> Isso é tudo o que você precisa para transformar sua vida com o Modo Caverna. ​</strong></p>",
+              "style": "default",
+              "textSize": "custom",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 21,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "438f83fa-2f7f-4dad-ad4b-9f3f8f884f48",
+            "data": {
+              "text": "<p><strong>Um protocolo simples, direto ao ponto, feito pra quem está cansado de se sabotar e quer resultados reais — </strong>com menos procrastinação e ansiedade, mais disciplina e produtividade.​</p>",
+              "style": "default",
+              "textSize": "default",
+              "animation": "fadeIn",
+              "textSpacing": "auto",
+              "textAlignment": "center",
+              "textCustomSize": 20,
+              "textLineHeight": "auto"
+            },
+            "icon": "text",
+            "type": "textV2",
+            "title": "Texto",
+            "version": 2,
+            "category": "reading",
+            "nestable": true
+          },
+          {
+            "id": "736f8ee2-8070-4f80-8d16-ae21a1e351b0",
+            "data": {
+              "fixed": false,
+              "style": "default",
+              "title": "<p><strong>ATIVAR O MODO CAVERNA</strong></p>",
+              "anchor": false,
+              "alignment": "center",
+              "animation": "pulse",
+              "videoDelay": false,
+              "anchorTarget": null,
+              "videoDelayTime": 10
+            },
+            "icon": "square-mouse-pointer",
+            "type": "button",
+            "title": "Botão",
+            "category": "action"
+          }
+        ]
+      },
+      "type": "page",
+      "width": 320,
+      "height": 378,
+      "dragging": false,
+      "position": {
+        "x": 488.8888888888889,
+        "y": 78.88888888888891
+      },
+      "selected": false,
+      "positionAbsolute": {
+        "x": 488.8888888888889,
+        "y": 78.88888888888891
+      }
+    },
+    {
+      "id": "root",
+      "data": {
+        "type": "start",
+        "title": "Início"
+      },
+      "type": "function",
+      "width": 320,
+      "height": 80,
+      "position": {
+        "x": 100,
+        "y": 150
+      },
+      "draggable": false,
+      "selectable": false,
+      "positionAbsolute": {
+        "x": 100,
+        "y": 150
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "reactflow__edge-rootrootHandle-52f0c8ca-94df-4287-acec-03a644a6569052f0c8ca-94df-4287-acec-03a644a65690",
+      "source": "root",
+      "target": "52f0c8ca-94df-4287-acec-03a644a65690",
+      "sourceHandle": "rootHandle",
+      "targetHandle": "52f0c8ca-94df-4287-acec-03a644a65690"
+    },
+    {
+      "id": "reactflow__edge-52f0c8ca-94df-4287-acec-03a644a65690736f8ee2-8070-4f80-8d16-ae21a1e351b0-3064a615-1b4e-4e3e-aa30-a58e276daffe3064a615-1b4e-4e3e-aa30-a58e276daffe",
+      "source": "52f0c8ca-94df-4287-acec-03a644a65690",
+      "target": "3064a615-1b4e-4e3e-aa30-a58e276daffe",
+      "sourceHandle": "736f8ee2-8070-4f80-8d16-ae21a1e351b0",
+      "targetHandle": "3064a615-1b4e-4e3e-aa30-a58e276daffe"
+    },
+    {
+      "id": "reactflow__edge-3064a615-1b4e-4e3e-aa30-a58e276daffeea2f6beb-1863-411b-ac51-ec6c2eb301c5-b8e25c0e-3add-4456-8301-90108c562eb4b8e25c0e-3add-4456-8301-90108c562eb4",
+      "source": "3064a615-1b4e-4e3e-aa30-a58e276daffe",
+      "target": "b8e25c0e-3add-4456-8301-90108c562eb4",
+      "sourceHandle": "ea2f6beb-1863-411b-ac51-ec6c2eb301c5",
+      "targetHandle": "b8e25c0e-3add-4456-8301-90108c562eb4"
+    },
+    {
+      "id": "reactflow__edge-b8e25c0e-3add-4456-8301-90108c562eb4298d8767-b76d-4a2b-9630-72f03656485d-81480284-c4fe-469f-a71e-70794f1c12a381480284-c4fe-469f-a71e-70794f1c12a3",
+      "source": "b8e25c0e-3add-4456-8301-90108c562eb4",
+      "target": "81480284-c4fe-469f-a71e-70794f1c12a3",
+      "sourceHandle": "298d8767-b76d-4a2b-9630-72f03656485d",
+      "targetHandle": "81480284-c4fe-469f-a71e-70794f1c12a3"
+    },
+    {
+      "id": "reactflow__edge-81480284-c4fe-469f-a71e-70794f1c12a30d824960-5862-4fbc-9e7c-a412718be5cc-29687ef4-4d1f-40d1-927c-2f84449bf5b029687ef4-4d1f-40d1-927c-2f84449bf5b0",
+      "source": "81480284-c4fe-469f-a71e-70794f1c12a3",
+      "target": "29687ef4-4d1f-40d1-927c-2f84449bf5b0",
+      "sourceHandle": "0d824960-5862-4fbc-9e7c-a412718be5cc",
+      "targetHandle": "29687ef4-4d1f-40d1-927c-2f84449bf5b0"
+    },
+    {
+      "id": "reactflow__edge-29687ef4-4d1f-40d1-927c-2f84449bf5b0bc51accb-4942-4ea5-80f8-d7ac7cbb5bf2-8061f36a-00bd-4dcd-82ab-7317008c9aad8061f36a-00bd-4dcd-82ab-7317008c9aad",
+      "source": "29687ef4-4d1f-40d1-927c-2f84449bf5b0",
+      "target": "8061f36a-00bd-4dcd-82ab-7317008c9aad",
+      "sourceHandle": "bc51accb-4942-4ea5-80f8-d7ac7cbb5bf2",
+      "targetHandle": "8061f36a-00bd-4dcd-82ab-7317008c9aad"
+    },
+    {
+      "id": "reactflow__edge-8061f36a-00bd-4dcd-82ab-7317008c9aadc93d7283-d864-495c-9714-cbb456900fa9-caae14b4-baec-4f08-a98a-48b2004cffafcaae14b4-baec-4f08-a98a-48b2004cffaf",
+      "source": "8061f36a-00bd-4dcd-82ab-7317008c9aad",
+      "target": "caae14b4-baec-4f08-a98a-48b2004cffaf",
+      "sourceHandle": "c93d7283-d864-495c-9714-cbb456900fa9",
+      "targetHandle": "caae14b4-baec-4f08-a98a-48b2004cffaf"
+    },
+    {
+      "id": "reactflow__edge-caae14b4-baec-4f08-a98a-48b2004cffaf3081db6f-5ea2-4d6e-98b9-acf1d980e82c-49f1646b-fcd3-4df1-af46-d6954420efbe49f1646b-fcd3-4df1-af46-d6954420efbe",
+      "source": "caae14b4-baec-4f08-a98a-48b2004cffaf",
+      "target": "49f1646b-fcd3-4df1-af46-d6954420efbe",
+      "sourceHandle": "3081db6f-5ea2-4d6e-98b9-acf1d980e82c",
+      "targetHandle": "49f1646b-fcd3-4df1-af46-d6954420efbe"
+    },
+    {
+      "id": "reactflow__edge-49f1646b-fcd3-4df1-af46-d6954420efbe72294286-3484-4d70-9073-cd67cc7c727a-c4693921-dbfc-468a-bd9c-fbd8b277e0c2c4693921-dbfc-468a-bd9c-fbd8b277e0c2",
+      "source": "49f1646b-fcd3-4df1-af46-d6954420efbe",
+      "target": "c4693921-dbfc-468a-bd9c-fbd8b277e0c2",
+      "sourceHandle": "72294286-3484-4d70-9073-cd67cc7c727a",
+      "targetHandle": "c4693921-dbfc-468a-bd9c-fbd8b277e0c2"
+    },
+    {
+      "id": "reactflow__edge-c4693921-dbfc-468a-bd9c-fbd8b277e0c264716462-483c-44cd-ae88-69647acb6168-36f4b405-7fb7-47b2-b096-6a3cdfdca5e836f4b405-7fb7-47b2-b096-6a3cdfdca5e8",
+      "source": "c4693921-dbfc-468a-bd9c-fbd8b277e0c2",
+      "target": "36f4b405-7fb7-47b2-b096-6a3cdfdca5e8",
+      "sourceHandle": "64716462-483c-44cd-ae88-69647acb6168",
+      "targetHandle": "36f4b405-7fb7-47b2-b096-6a3cdfdca5e8"
+    },
+    {
+      "id": "reactflow__edge-c4693921-dbfc-468a-bd9c-fbd8b277e0c2fcc7e98b-0f50-4c57-be69-fe465af618ab-36f4b405-7fb7-47b2-b096-6a3cdfdca5e836f4b405-7fb7-47b2-b096-6a3cdfdca5e8",
+      "source": "c4693921-dbfc-468a-bd9c-fbd8b277e0c2",
+      "target": "36f4b405-7fb7-47b2-b096-6a3cdfdca5e8",
+      "sourceHandle": "fcc7e98b-0f50-4c57-be69-fe465af618ab",
+      "targetHandle": "36f4b405-7fb7-47b2-b096-6a3cdfdca5e8"
+    },
+    {
+      "id": "reactflow__edge-c4693921-dbfc-468a-bd9c-fbd8b277e0c27c14e83e-d571-4a23-9b80-a00f625bd577-36f4b405-7fb7-47b2-b096-6a3cdfdca5e836f4b405-7fb7-47b2-b096-6a3cdfdca5e8",
+      "source": "c4693921-dbfc-468a-bd9c-fbd8b277e0c2",
+      "target": "36f4b405-7fb7-47b2-b096-6a3cdfdca5e8",
+      "sourceHandle": "7c14e83e-d571-4a23-9b80-a00f625bd577",
+      "targetHandle": "36f4b405-7fb7-47b2-b096-6a3cdfdca5e8"
+    },
+    {
+      "id": "reactflow__edge-36f4b405-7fb7-47b2-b096-6a3cdfdca5e8054ae74f-8543-4625-9506-37a770bddc0d-81682500-e2f5-48eb-8977-c8b5ca43907781682500-e2f5-48eb-8977-c8b5ca439077",
+      "source": "36f4b405-7fb7-47b2-b096-6a3cdfdca5e8",
+      "target": "81682500-e2f5-48eb-8977-c8b5ca439077",
+      "sourceHandle": "054ae74f-8543-4625-9506-37a770bddc0d",
+      "targetHandle": "81682500-e2f5-48eb-8977-c8b5ca439077"
+    },
+    {
+      "id": "reactflow__edge-36f4b405-7fb7-47b2-b096-6a3cdfdca5e88dc4fa07-7979-4c81-baaa-825f9c605869-81682500-e2f5-48eb-8977-c8b5ca43907781682500-e2f5-48eb-8977-c8b5ca439077",
+      "source": "36f4b405-7fb7-47b2-b096-6a3cdfdca5e8",
+      "target": "81682500-e2f5-48eb-8977-c8b5ca439077",
+      "sourceHandle": "8dc4fa07-7979-4c81-baaa-825f9c605869",
+      "targetHandle": "81682500-e2f5-48eb-8977-c8b5ca439077"
+    },
+    {
+      "id": "reactflow__edge-36f4b405-7fb7-47b2-b096-6a3cdfdca5e843ad80ff-059e-4909-973f-af2158c61b6e-81682500-e2f5-48eb-8977-c8b5ca43907781682500-e2f5-48eb-8977-c8b5ca439077",
+      "source": "36f4b405-7fb7-47b2-b096-6a3cdfdca5e8",
+      "target": "81682500-e2f5-48eb-8977-c8b5ca439077",
+      "sourceHandle": "43ad80ff-059e-4909-973f-af2158c61b6e",
+      "targetHandle": "81682500-e2f5-48eb-8977-c8b5ca439077"
+    },
+    {
+      "id": "reactflow__edge-81682500-e2f5-48eb-8977-c8b5ca439077d9e74d93-1050-4e75-9936-54b59b6c218d-a130c8e1-d3a0-4b9a-b31f-a82187babba1a130c8e1-d3a0-4b9a-b31f-a82187babba1",
+      "source": "81682500-e2f5-48eb-8977-c8b5ca439077",
+      "target": "a130c8e1-d3a0-4b9a-b31f-a82187babba1",
+      "sourceHandle": "d9e74d93-1050-4e75-9936-54b59b6c218d",
+      "targetHandle": "a130c8e1-d3a0-4b9a-b31f-a82187babba1"
+    },
+    {
+      "id": "reactflow__edge-a130c8e1-d3a0-4b9a-b31f-a82187babba15f3dd521-410c-4954-a234-834c5cc55353-9845a504-df51-4117-a496-7d5606bf87c29845a504-df51-4117-a496-7d5606bf87c2",
+      "source": "a130c8e1-d3a0-4b9a-b31f-a82187babba1",
+      "target": "9845a504-df51-4117-a496-7d5606bf87c2",
+      "sourceHandle": "5f3dd521-410c-4954-a234-834c5cc55353",
+      "targetHandle": "9845a504-df51-4117-a496-7d5606bf87c2"
+    },
+    {
+      "id": "reactflow__edge-9845a504-df51-4117-a496-7d5606bf87c23ddb8961-6894-4c56-b83e-98c5c4ea8e23-e786d82d-b353-41a9-998b-7d0f3d6656dbe786d82d-b353-41a9-998b-7d0f3d6656db",
+      "source": "9845a504-df51-4117-a496-7d5606bf87c2",
+      "target": "e786d82d-b353-41a9-998b-7d0f3d6656db",
+      "sourceHandle": "3ddb8961-6894-4c56-b83e-98c5c4ea8e23",
+      "targetHandle": "e786d82d-b353-41a9-998b-7d0f3d6656db"
+    },
+    {
+      "id": "reactflow__edge-9845a504-df51-4117-a496-7d5606bf87c2a230e967-05bf-40ba-849a-c54725af5ccf-e786d82d-b353-41a9-998b-7d0f3d6656dbe786d82d-b353-41a9-998b-7d0f3d6656db",
+      "source": "9845a504-df51-4117-a496-7d5606bf87c2",
+      "target": "e786d82d-b353-41a9-998b-7d0f3d6656db",
+      "sourceHandle": "a230e967-05bf-40ba-849a-c54725af5ccf",
+      "targetHandle": "e786d82d-b353-41a9-998b-7d0f3d6656db"
+    }
+  ],
+  "url": "5o250552",
+  "status": "published",
+  "version": "beta",
+  "theme": {
+    "dark": true,
+    "logo": {
+      "uuid": "2505aec2-d306-40c7-ba87-4be1ffc40fd8",
+      "width": 512,
+      "height": 512
+    },
+    "color": "#ff3333",
+    "bgColor": "#171717",
+    "favicon": {
+      "uuid": "b0215c98-a22a-4f2d-b777-c3d5805c0d6b",
+      "width": 512,
+      "height": 512
+    },
+    "spacing": "verySmall",
+    "rounding": "default",
+    "textColor": "#ffffff"
+  },
+  "settings": {
+    "title": "Modo Caverna Quiz",
+    "cloaker": false,
+    "domains": [
+      {
+        "id": "7abfe9e7-ba8d-44cf-845e-2851293bc0d7",
+        "new": true,
+        "config": true,
+        "domain": "quiz.modocaverna.com",
+        "verified": false
+      }
+    ],
+    "tracking": true,
+    "description": null,
+    "headerScript": null,
+    "integrations": []
+  },
+  "variables": [
+    {
+      "id": "sys_2g2s",
+      "type": "system",
+      "title": "src",
+      "pageId": null,
+      "isSystem": true,
+      "contentId": null
+    },
+    {
+      "id": "sys_2fq3",
+      "type": "system",
+      "title": "sck",
+      "pageId": null,
+      "isSystem": true,
+      "contentId": null
+    },
+    {
+      "id": "sys_ds7xb1",
+      "type": "system",
+      "title": "utm_term",
+      "pageId": null,
+      "isSystem": true,
+      "contentId": null
+    },
+    {
+      "id": "sys_pgta8o",
+      "type": "system",
+      "title": "utm_content",
+      "pageId": null,
+      "isSystem": true,
+      "contentId": null
+    },
+    {
+      "id": "sys_12ihkv",
+      "type": "system",
+      "title": "utm_campaign",
+      "pageId": null,
+      "isSystem": true,
+      "contentId": null
+    },
+    {
+      "id": "sys_v91lba",
+      "type": "system",
+      "title": "utm_medium",
+      "pageId": null,
+      "isSystem": true,
+      "contentId": null
+    },
+    {
+      "id": "sys_y94amk",
+      "type": "system",
+      "title": "utm_source",
+      "pageId": null,
+      "isSystem": true,
+      "contentId": null
+    }
+  ],
+  "domain": "quiz.modocaverna.com",
+  "deleted_at": null,
+  "created_at": "2025-08-21T21:18:00.000000Z",
+  "updated_at": "2026-02-15T19:00:46.000000Z",
+  "blocked": false
+}

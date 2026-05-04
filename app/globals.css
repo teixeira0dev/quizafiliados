@@ -1,0 +1,347 @@
+/* Poppins agora vem self-hosted via next/font/google (ver app/layout.tsx).
+   --font-poppins é injetado como CSS variable na <html>. */
+@import "tailwindcss";
+
+/* ────────────────────────────────────────────────────── */
+/* DESIGN TOKENS                                          */
+/* ────────────────────────────────────────────────────── */
+:root {
+  /* Cores */
+  --bg:              #171717;
+  --bg-elev:         #1c1c1c;
+  --fg:              #ffffff;
+  --primary:         #ff3333;
+  --primary-dark:    #cc1f1f;
+  --primary-glow:    rgba(255, 51, 51, 0.45);
+  --red:             #ff3333;
+  --red-glow:        rgba(255, 51, 51, 0.45);
+  --green:           #17c200;
+  --green-glow:      rgba(23, 194, 0, 0.45);
+  --yellow:          #facc15;
+  --note-bg:         #ffdd00;
+  --note-fg:         #131313;
+  --card-bg:         #1e1e1e;
+  --card-border:     #2e2e2e;
+  --card-hover-bg:   #252525;
+  --track-bg:        #2e2e2e;
+  --muted:           #999999;
+  --container-bg:    #ffffff;
+  --container-fg:    #000000;
+
+  /* Tipografia — usa a variável injetada por next/font/google */
+  --font:            var(--font-poppins), 'Poppins', ui-sans-serif, system-ui, sans-serif;
+
+  /* Escala tipográfica fixa (rem; calibrada pra mobile 360px e
+     mantida idêntica em qualquer viewport — uma diagramação só) */
+  --fs-xs:           0.75rem;   /* 12px — legendas, contadores  */
+  --fs-sm:           0.875rem;  /* 14px — texto auxiliar         */
+  --fs-base:         1rem;      /* 16px — alternativas, botões   */
+  --fs-lg:           1.125rem;  /* 18px — texto da questão       */
+  --fs-xl:           1.375rem;  /* 22px — título do quiz         */
+
+  /* Escala de espaçamento (múltiplos de 4) */
+  --sp-1:            4px;
+  --sp-2:            8px;
+  --sp-3:            12px;
+  --sp-4:            16px;
+  --sp-5:            20px;
+  --sp-6:            24px;
+  --sp-8:            32px;
+  --sp-10:           40px;
+  --sp-12:           48px;
+
+  /* Transições */
+  --t-fast:          150ms ease;
+  --t-base:          250ms ease;
+  --t-slow:          350ms ease;
+
+  /* Border-radius — escala nova; --radius/--radius-lg/--radius-pill
+     ficam como aliases legados pra não quebrar consumers existentes */
+  --r-sm:            6px;
+  --r-md:            10px;
+  --r-lg:            16px;
+
+  /* Layout — coluna única, largura máxima centralizada */
+  --max-w:           402px;
+  --radius:          0.65rem;
+  --radius-lg:       0.875rem;
+  --radius-pill:     999px;
+
+  /* Safe area */
+  --sai-b:           env(safe-area-inset-bottom, 0px);
+  --sai-t:           env(safe-area-inset-top, 0px);
+}
+
+/* ────────────────────────────────────────────────────── */
+/* BASE — mobile-first / smartphone only                  */
+/* ────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  touch-action: manipulation;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  background-color: var(--bg);
+  color: var(--fg);
+  /* Tamanho fixo: a diagramação fica igual no PC e em qualquer celular. */
+  font-size: var(--fs-base);
+  line-height: 1.55;
+  overscroll-behavior-y: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+button {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Inputs e botões nunca abrem zoom no iOS (16px = --fs-base é o mínimo) */
+input, select, textarea, button { font-size: var(--fs-base); font-family: inherit; }
+
+/* ────────────────────────────────────────────────────── */
+/* RICH TEXT                                              */
+/* ────────────────────────────────────────────────────── */
+.rt p               { margin-bottom: 0.55em; word-break: break-word; overflow-wrap: anywhere; }
+.rt p:last-child    { margin-bottom: 0; }
+.rt strong          { font-weight: 700; }
+.rt em              { font-style: italic; }
+.rt u               { text-decoration: underline; }
+.rt img             { max-width: 100%; height: auto; }
+
+/* Hero (etapa 1) — pequenos ajustes finos */
+[data-hero] .rt    { font-feature-settings: "ss01", "tnum"; }
+
+/* Iframes injetados em qualquer lugar nunca extrapolam o container */
+iframe { max-width: 100%; }
+
+/* ────────────────────────────────────────────────────── */
+/* ANIMAÇÕES                                              */
+/* ────────────────────────────────────────────────────── */
+
+/* Pulse — usa --btn-glow definido inline no próprio botão (red ou green) */
+@keyframes pulse-btn {
+  0%, 100% { transform: scale(1);    box-shadow: 0 10px 28px -6px var(--btn-glow, var(--red-glow)), 0 0 0 0 var(--btn-glow, var(--red-glow)); }
+  50%      { transform: scale(1.03); box-shadow: 0 14px 36px -4px var(--btn-glow, var(--red-glow)), 0 0 0 8px transparent; }
+}
+.animate-pulse-btn { animation: pulse-btn 1.6s ease-in-out infinite; }
+
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in { animation: fade-in-up 0.35s ease-out both; }
+
+/* Entrada de cada elemento dentro do step — escalonada via animationDelay
+   inline pra dar a sensação de "elementos surgindo" depois do bubble blur */
+@keyframes quiz-elem-in {
+  0%   { opacity: 0; transform: translateY(10px); filter: blur(4px); }
+  60%  { filter: blur(0); }
+  100% { opacity: 1; transform: translateY(0); filter: blur(0); }
+}
+.quiz-elem-in {
+  animation: quiz-elem-in 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
+  will-change: opacity, transform, filter;
+}
+@media (prefers-reduced-motion: reduce) {
+  .quiz-elem-in { animation: none; }
+}
+
+/* Slider de tamanho do MediaItemEditor */
+.size-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 4px;
+  border-radius: 999px;
+  background: linear-gradient(to right, #ff3333 var(--fill, 100%), #2a2a2a var(--fill, 100%));
+  outline: none;
+  cursor: pointer;
+}
+.size-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #fff;
+  border: 2px solid #ff3333;
+  cursor: grab;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.5);
+}
+.size-slider::-webkit-slider-thumb:active { cursor: grabbing; }
+.size-slider::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #fff;
+  border: 2px solid #ff3333;
+  cursor: grab;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.5);
+}
+
+/* Indicadores e loaders (consumidos pelo Admin — fora do surface quiz) */
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+@keyframes copy-pulse {
+  0%, 100% { opacity: 0.5; transform: scale(1); }
+  50%      { opacity: 1;   transform: scale(1.3); }
+}
+
+/* Carrossel — esconde scrollbar mantendo o swipe nativo */
+.carousel-track {
+  scrollbar-width: none;        /* Firefox */
+  -ms-overflow-style: none;     /* IE/Edge legacy */
+}
+.carousel-track::-webkit-scrollbar { display: none; }
+
+/* Media embed (override do admin) — iframe responsivo */
+.media-embed iframe,
+.media-embed video,
+.media-embed embed,
+.media-embed object {
+  width: 100% !important;
+  display: block;
+  border: 0;
+}
+.media-embed > div { width: 100%; }
+
+/* Seta scroll-hint */
+@keyframes bounce-down {
+  0%, 100% { transform: translateY(0);   opacity: 0.45; }
+  50%      { transform: translateY(8px); opacity: 0.85; }
+}
+.animate-bounce-down { animation: bounce-down 1.4s ease-in-out infinite; }
+
+/* ────────────────────────────────────────────────────── */
+/* BOTÃO CTA — classes utilitárias                        */
+/* ────────────────────────────────────────────────────── */
+.btn-cta {
+  position: relative;
+  width: 100%;
+  min-height: 64px;
+  padding: 18px 24px;
+  border: 0;
+  border-radius: var(--radius-lg);
+  color: #fff;
+  font-weight: 800;
+  font-size: var(--fs-base);
+  line-height: 1.15;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  cursor: pointer;
+  isolation: isolate;
+  overflow: hidden;
+  transition: transform var(--t-fast), filter var(--t-fast), box-shadow var(--t-base);
+}
+/* highlight superior + sombra interna inferior — efeito "glossy" */
+.btn-cta::before {
+  content: '';
+  position: absolute; inset: 0;
+  border-radius: inherit;
+  background:
+    linear-gradient(180deg, rgba(255,255,255,0.18) 0%, rgba(255,255,255,0) 45%),
+    linear-gradient(0deg,  rgba(0,0,0,0.18)   0%, rgba(0,0,0,0)   45%);
+  pointer-events: none;
+  z-index: 1;
+}
+.btn-cta > * { position: relative; z-index: 2; }
+.btn-cta:active { transform: scale(0.97); filter: brightness(0.92); }
+
+.btn-cta--fixed {
+  position: fixed;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  width: calc(100% - 24px);
+  max-width: var(--max-w);
+  margin-bottom: calc(12px + var(--sai-b));
+  z-index: 50;
+}
+.btn-cta--fixed:active { transform: translateX(-50%) scale(0.97); }
+
+/* Hover discreto pra desktop — sem competir com a animação pulse */
+@media (hover: hover) {
+  .btn-cta:hover { filter: brightness(1.06); }
+}
+
+/* ────────────────────────────────────────────────────── */
+/* ANSWER CARD — alternativas do quiz                     */
+/* ────────────────────────────────────────────────────── */
+.answer-card {
+  width: 100%;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-height: 60px;
+  padding: 14px 16px;
+  border: 1.5px solid var(--card-border);
+  border-radius: var(--radius-lg);
+  background-color: var(--card-bg);
+  color: var(--fg);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.02);
+  cursor: pointer;
+  transition:
+    border-color var(--t-fast),
+    background-color var(--t-fast),
+    transform var(--t-fast),
+    box-shadow var(--t-fast);
+}
+.answer-card:active { transform: scale(0.985); }
+
+/* Hover só em dispositivos com mouse — evita "stuck hover" em touch */
+@media (hover: hover) {
+  .answer-card:hover { background-color: var(--card-hover-bg); }
+  .answer-card--selected:hover { background-color: rgba(255, 51, 51, 0.18); }
+}
+
+.answer-card--selected {
+  border-color: var(--primary);
+  background-color: rgba(255, 51, 51, 0.14);
+  box-shadow:
+    0 0 0 3px rgba(255, 51, 51, 0.18),
+    0 6px 16px -8px var(--primary-glow);
+}
+
+.answer-card__radio {
+  flex-shrink: 0;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: 2px solid #555;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color var(--t-fast), background-color var(--t-fast);
+}
+.answer-card__radio--selected {
+  border-color: var(--primary);
+  background-color: var(--primary);
+}
+
+.answer-card__text {
+  font-size: var(--fs-base);
+  line-height: 1.45;
+  flex: 1;
+}
+
+/* ────────────────────────────────────────────────────── */
+/* FOCO via TECLADO — outline obrigatório (a11y)          */
+/* ────────────────────────────────────────────────────── */
+button:focus-visible,
+a:focus-visible,
+[role="button"]:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 3px;
+}
